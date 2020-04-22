@@ -1,0 +1,943 @@
+© Permanent HDClic / Release Notes for module PrestaShop 1.5 & 1.6
+Module : PrestaBlog
+[root] = ./modules/prestablog
+[theme] = for all themes :
+    current "grid-for-1-6" (since >= v3.6.3),
+    "default" (only <= v3.6.3)
+    "default-1-5" (since >= v3.2),
+    "black" (only <= v2.072),
+    "responsive-nivo" (only <= v2.072)
+[pre] = default prefixe for tables installation of PrestaShop : “ps_”
+--------------------------------
+#########################
+#   v3.6.3 - 2015-12-16 #
+#########################
+
+    Note:
+
+    This version add a new defaut theme called "grid-for-1-6".
+    The old theme called "default-1-5" for PrestaShop 1.5 will be deprecated for the future version of module.
+    The future version will be compatible only with PrestaShop 1.6 and PrestaShop 1.5 will be deprecated.
+
+    Important features added and changed :
+
+    - Add new theme by default : "grid-for-1-6", the "default" theme will be deprecated for > v3.6.3
+    - Facebook comments with api Id & administrators Id capability
+    - Related Posts
+    - PrestaShop > 1.6 only : columns activation for each themes / shops
+    - Admin Menu : Access to the configuration of module with the admin menu of PrestaShop
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : add link_rewrite for categories to the import XML process
+    [*] [root]/prestablog.php : fix bug url language on sitemap loop for articles and categories
+    [*] [root]/class/news.class.php : remove the strip_tag html for the detection to link_unique of post
+
+    Improved/changed features:
+
+    [*] [root]/class/*.class.php : add a drop table with check if exists before in the uninstall process
+    [*] [root]/views/templates/front/[theme]_page-all.tpl : disabled count comments when comments configuration is disabled
+    [*] [root]/views/templates/hook/[theme]_page-subblock.tpl : disabled count comments when comments configuration is disabled
+    [*] [root]/prestablog.php : change name of install / uninstall Admin ajax controller to registerAdminAjaxTab
+
+    Added Features:
+
+    [*] [root]/class/news.class.php : add method to get fb comments count
+    [*] [root]/class/commentnews.class.php : add method to get fb comments count
+    [*] [root]/views/templates/front/[theme]_page-all.tpl : add count fb comments when activated
+    [*] [root]/views/templates/hook/[theme]_page-subblock.tpl : add count fb comments when activated
+    [+] [root]/controllers/front/blog.php : facebook comments
+    [+] [root]/views/css/[theme].css : facebook comments class
+    [+] [root]/views/templates/front/[theme]_page.tpl : load template for facebook comments
+    [+] [root]/views/templates/front/[theme]_page-comment-fb.tpl : add template for facebook comments
+    [+] [root]/views/templates/front/[theme]_page-filtrecat.tpl : add template for search filter of categories
+    [*] [root]/views/templates/front/[theme]_page-unique.tpl : filter of categories for search
+    [*] [root]/views/templates/front/[theme]_page-all.tpl : filter of categories for search
+    [+] [root]/controllers/front/blog.php : filter of categories for search
+    [+] [root]/prestablog.php : new configuration filter of categories for search
+    [+] [root]/views/css/prestablog-back-office.css : add file for admin tab menu
+    [*] [root]/prestablog.php : admin tab menu install / uninstall for 1.5 / 1.6
+    [+] [root]/controllers/admin/AdminPrestaBlogController.php : add file for admin tab menu
+    [+] [root]/controllers/admin/AdminPrestaBlogBOTabPS15Controller.php : add file for admin tab menu
+    [+] [root]/upgrade/install-3.6.3.php : add auto upgrade module for v3.6.2
+    [+] [root]/prestablog.php : columns left or right can be activate in the theme configuration
+    [+] [root]/class/news.class.php : related articles from an article
+    [+] [root]/prestablog.php : related articles from an article
+    [+] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : related articles from an article
+    [+] [root]/views/templates/front/[theme]_page-unique.tpl : related articles from an article
+    [+] [root]/views/css/[theme].css : related articles from an article
+    [+] [root]/views/css/admin.css : related articles from an article
+
+#########################
+#   v3.6.2 - 2015-09-02 #
+#########################
+
+    Note:
+
+    [.]
+
+    Important features added and changed :
+
+    - groups / permissions on categories
+
+    Fixed bugs:
+
+    [*] [root]/class/categories.class.php : add sql distinct output on select groups language from category
+    [*] [root]/class/categories.class.php : fix html special char in the crop paragraph
+    [*] [root]/class/news.class.php : fix html special char in the crop paragraph
+
+    Improved/changed features:
+
+    [+] [root]/prestablog.php : add smartyRegister PrestaBlogContent to escape html js
+    [*] [root]/views/templates/front/[theme]_page-unique.tpl : add new PrestaBlogContent escape function to return html js content from smarty
+    [*] [root]/views/templates/front/[theme]_page-menucat.tpl : add new PrestaBlogContent escape function to return html js content from smarty
+    [*] [root]/views/templates/front/[theme]_page.tpl :  add new PrestaBlogContent escape function to return html js content from smarty
+    [*] [root]/views/templates/front/[theme]_category.tpl : add new PrestaBlogContent escape function to return html js content from smarty
+    [*] [root]/prestablog.php : smartyRegister fix to solve the bug of other modules that duplicate the displayheader process
+    [*] [root]/views/views/templates/front/* : escape smarty variables for validator
+    [+] [root]/views/css/[theme]-module.css : force margin for template without margin on there paragraphe css
+    [+] [root]/controllers/front/blog.php : add group permissions for categories
+    [+] [root]/class/categories.class.php : add group permissions for categories
+    [+] [root]/class/news.class.php : add group permissions for categories
+    [*] [root]/prestablog.php : add group permissions for categories
+    [*] [root]/translations/en.php : update some translations
+    [*] [root]/translations/es.php : update some translations
+    [*] [root]/translations/fr.php : update some translations
+    [*] [root]/changelog.txt : update change log of sql from previous versions
+    [*] [root]/prestablog.php : Refactoring Tools::copy to fix retro for < 1.5
+
+    Added Features:
+
+    [+] [root]/upgrade/install-3.6.2.php : add auto upgrade module for v3.6.2
+    [+] [root]/class/categories.class.php : add permissions groups for categories
+    [+] [root]/class/news.class.php : add permissions groups for categories
+    [*] [root]/class/prestablog.php : add group permissions for categories
+    [+] [root]/prestablog.php : add permissions groups for categories
+
+#########################
+#   v3.6.1 - 2015-06-10 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : fix cast sql search
+    [*] [root]/upgrade/install-3.6.0.php : fix configuration nb_list_linkprod value
+    [*] [root]/upgrade/install-3.6.0.php : fix admin tab registration from an upgrade
+    [*] [root]/prestablog.php : register admin tab with the AdminModules parent tab
+
+    Added Features:
+
+    [+] [root]/upgrade/install-3.6.1.php : add auto upgrade module for v3.6.1
+
+#########################
+#   v3.6.0 - 2015-06-09 #
+#########################
+
+    Note:
+
+    [.]
+
+    Important features added and changed :
+
+    - search on blog
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : fix xml config created with empty config when module is not installed
+
+    Added Features:
+
+    [+] [root]/controllers/front/blog.php : add search process
+    [+] [root]/prestablog.php : Link in the menu to the blog page for easy frontoffice access from the module configuration (with the current language of employed)
+    [+] [root]/views/css/admin.css : new class css li.nav-extra-link to float rigth
+    [+] [root]/upgrade/install-3.6.0.php : add auto upgrade module for v3.6.0
+    [+] [root]/prestablog.php : add search bloc
+    [+] [root]/views/templates/hook/[theme]_bloc-search.tpl : add search bloc
+    [+] [root]/views/css/[theme]-module.css : add css for search bloc
+    [+] [root]/views/img/search.png : add image search
+    [+] [root]/prestablog.php : delete deprecated search comment in source code
+    [+] [root]/views/templates/hook/[theme]_header-search.tpl : delete deprecated search template
+
+    Improved/changed features:
+
+    [-] [root]/* : delete all extern link to @hdclic in code
+    [*] [root]/prestablog.php : cast sql variable for security
+    [*] [root]/controllers/front/blog.php : cast sql variable for security
+    [*] [root]/class/* : cast sql variable for security
+
+#########################
+#   3.5.5 - 2014-05-12  #
+#########################
+
+    Note:
+
+    Must change features :
+
+    - all structure theme respect addons standards
+
+    Important features added and changed :
+
+    - sitemap
+    - PS > 1.6 : easy to order of categories with new dynamic tree
+    - PS > 1.6 : view dynamic tree in categories bloc column
+    - PS > 1.6 : create custom list for admin module or front-office
+    - preview mode for articles
+    - custom list of articles with shorcode association for your tpl file
+    - custom meta description + h1 for index blog page
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : fix categories filter
+    [*] [root]/class/news.class.php : fix categories filter
+    [*] [root]/class/subblocks.class.php : fix categories filter
+    [*] [root]/prestablog.php : fix translation in controller blog
+    [*] [root]/prestablog.php : fix detect if not category exists before import xml WP
+    [*] [root]/prestablog.php : fix some field to import from xml WP like url, empty rewrite, empty author comment
+    [*] [root]/prestablog.php : fix import from WordPress xml with only one post content inside
+    [*] [root]/prestablog.php : fix restore lang mail en if not exists with correct original path
+    [*] [root]/prestablog.php : fix bug for delete category
+    [*] [root]/controllers/front/rss.php : fix categories in item array to real title verbose
+    [*] [root]/controllers/front/rss.php : fix all content text for RSS Agregator with <![CDATA[...]]>
+    [-] [root]/class/news.class.php : delete useless (int) in getListe method
+
+    Added Features:
+
+    [+] [root]/prestablog.php : add new socials network and independant configurations for Facebook, Twitter, Google +, Linkedin, Email, Pinterest, Pocket, Tumblr, Reddit, Hackernews
+    [+] [root]/views/templates/front/[theme]_page-unique.tpl : add new socials network and independant configurations for Facebook, Twitter, Google +, Linkedin, Email, Pinterest, Pocket, Tumblr, Reddit, Hackernews
+    [+] [root]/prestablog.php : add auto upgrade methode for module without addons account upgrade service
+    [+] [root]/prestablog.php : add custom title h1 for index blog page in addition to meta title
+    [+] [root]/views/templates/front/[theme]_page-all.tpl : add custom title h1 for index blog page in addition to meta title
+    [+] [root]/controllers/front/blog.php : add custom title h1 for index blog page in addition to meta title
+    [+] [root]/prestablog.php : add custom meta description for index blog page in addition to meta title
+    [+] [root]/controllers/front/blog.php : add preview mode
+    [+] [root]/controllers/front/blog.php : add token security for preview mode
+    [+] [root]/prestablog.php : add preview mode in articles list for all activated languages
+    [+] [root]/prestablog.php : add token security for preview mode
+    [+] [root]/prestablog.php : add language for url generation (base url is overload with selection language)
+    [+] [root]/prestablog.php : add new method for token security generation
+    [+] [root]/upgrade/install-3.5.5.php : add auto upgrade module for v3.5.5
+    [+] [root]/upgrade/install-3.5.php : add auto upgrade module for v3.5
+    [+] [root]/class/categories.class.php : add output complete url rewrite in list no arbo
+    [+] [root]/class/categories.class.php : new categories feature change positions with dynamic tree capability
+    [+] [root]/prestablog.php : new categories feature change positions with dynamic tree capability
+    [+] [root]/views/css/admin.css : new stylesheet to change positions categories
+    [+] [root]/prestablog.php : add dashboard for cutom lists with statistics
+    [+] [root]/class/subblocks.class.php : add dashboard for cutom lists with statistics on displayModuleBoard
+    [+] [root]/class/subblocks.class.php : multilang select possible for output list
+    [+] [root]/prestablog.php : add new feature to redirect 301 with new 'url_redirect' field
+    [+] [root]/prestablog.php : add param form name on display form method
+    [+] [root]/class/news.class.php : add new feature to redirect 301 with new 'url_redirect' field
+    [+] [root]/controllers/front/blog.php : add new feature to redirect 301 with new 'url_redirect' field
+    [+] [root]/views/templates/front/[theme]_page-unique.tpl : add fancybox popup hover image
+    [*] [root]/controllers/front/blog.php : add fancybox popup hover image retro-comp for ps 1.5 theme
+    [+] [root]/changelog_sql.txt : add a new file to trace the change of sql structure of database tables & fields
+    [+] [root]/img/sitemap.png : add image for sitemap feature
+    [+] [root]/img/css-tooltip-gradient-bg.png : add image for dashboard lists feature
+    [+] [root]/img/callout_black.gif : add image for dashboard lists feature
+
+    Improved/changed features:
+
+    [*] [root]/prestablog.php : perform extract informations for debug module configuration
+    [+] [root]/views/css/admin.css : text decoration none hover a
+    [*] [root]/prestablog.php : move and use objectToArray function to the method of class PrestaBlog
+    [*] [root]/controllers/front/blog.php : use objectToArray method of class PrestaBlog
+    [+] [root]/views/* : change all structure theme instead of [root]/themes/*
+    [-] [root]/themes/* : delete old structure theme
+    [*] [root]/prestablog.php : change include class out of inher class PrestaBlog
+    [*] [root]/views/templates/front/[theme]_page-comment.tpl : change translation for message mail sent
+    [*] [root]/js/jquery.mjs.nestedSortable.js : update to recent version 2.0 for tree order capability
+    [-] [root]/prestablog.php : delete useless method copyfile
+    [+] [root]/views/css/admin.css : add dashboard for cutom lists with statistics
+    [*] [root]/views/css/admin.css : background hover for each item and not for all lists in module home
+    [*] [root]/class/news.class.php : array languages option capability for lists
+    [*] [root]/prestablog.php : change method event of submit form for news and subblocks
+    [+] [root]/prestablog.php : add an universal intermediate method to output list articles of subblocks
+    [+] [root]/prestablog.php : add separation after subblocklist on page list
+    [*] [root]/class/subblocks.class.php : create list of avaible hook in the dedicated class
+    [*] [root]/prestablog.php : use list of avaible hook from subblocks class
+    [*] [root]/translations/fr.php : add Spanish translations
+    [*] [root]/translations/es.php : add French translations
+    [+] [root]/views/css/[theme]-module.css : add style square for list in article
+    [+] [root]/views/css/[theme]-module.css : add style decimal for list num in article
+
+    Database Added / Changed: for details, see [root]/changelog_sql.txt
+
+    [+] Table [pre]_prestablog_categorie : Add field `position` to order list of categories
+    [+] Table [pre]_prestablog_subblock : Add field `langues` to check languages association on output list
+    [+] Table [pre]_prestablog_news : Add field `url_redirect` for custom redirection 301 before check article
+    [+] Table [pre]_prestablog_news : Add field `date_modification` to follow sitemap with optimisation
+
+#########################
+#   v3.5.3 - 2015-01-23 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : fix {url_news} sequence parse to mail sent subscribe comments
+    [*] [root]/prestablog.php : fix process send mail for feedback-subscribe on Id url news
+
+#########################
+#   v3.5.1 - 2015-01-09 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Disabled reload configuration checked for compatibility 1.6.0.11 line 1881
+
+#########################
+#   v3.5 - 2014-11-12 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Fix display title news from list when only 1 language is selected
+    [+] [root]/prestablog.php : Fix error notice Undefined property: PrestaBlog::$_html
+    [*] [root]/themes/[theme]/tpl/module_page-unique.tpl : fix escape smarty url for follow social network
+    [-] [root]/prestablog.php : fix useless declarations submit in some form post
+
+    Added Features:
+
+    [+] [root]/themes/[theme]/tpl/module_top-subblock.tpl : Add template for output custom lists
+    [+] [root]/prestablog.php : Add configuration to insert block of custom articles lists inner hookhome
+    [+] [root]/class/subblocks.class.php : Add featured to insert block of custom list inner hookhome
+    [+] [root]/class/news.class.php : Add field for count of read for article
+    [+] [root]/lost : Adding a 'lost' folder to have the capacity of the original restorer translations
+
+    Improved/changed features:
+
+    [-] [root]/prestablog.php : Delete unused index file protect process
+    [-] [root]/prestablog.php : Delete fix label css declaration for 1.6 because unused
+    [*] [root]/prestablog.php : Put the url rewrite to true if is activated in ps global configuration
+    [*] [root]/* : Change optimisation from validator from all files
+    [-] [root]/backup : Delete folder
+    [-] [root]/prestablog.php : Delete all beta process for backup/restore in source code
+    [*] [root]/prestablog.php : you can delete all categories, but must have one category available inevitably for the delete
+    [*] [root]/themes/default/css/module.css : fix border color for top menu with defaut PrestaShop 1.6 theme use
+    [*] [root]/controllers/front/rss.php : update to W3C RSS Validator
+    [*] [root]/class/antispam.class.php : Use getValue for record loop copy from post
+    [*] [root]/class/categories.class.php : Use getValue for record loop copy from post
+    [*] [root]/class/news.class.php : Use getValue for record loop copy from post
+    [*] [root]/class/subblocks.class.php : Use getValue for record loop copy from post
+    [*] [root]/prestablog.php : Change all detections post method after submit form news, categories, antispam, subblocks
+
+    Database Added / Changed: for details, see [root]/changelog_sql.txt
+
+    [+] Table [pre]prestablog_subblock : Add sql table to insert block of custom list inner hookhome
+    [+] Table [pre]prestablog_subblock_categories : Add sql table to insert block of custom list inner hookhome
+    [+] Table [pre]prestablog_subblock_lang : Add sql table to insert block of custom list inner hookhome
+    [+] Table [pre]prestablog_news_lang : Add field `read` for count of read for article
+
+#########################
+#   v3.4 - 2014-05-28 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/js/tinymce.inc.1.6.js : fix editor initialisation option to follow url real without default domain conversion
+
+    Added Features:
+
+    [*] [root]/translations/es.php : add Spanish translation
+    [*] [root]/mails/es/* : add Spanish translation for mail notifications
+
+    Improved/changed features:
+
+    [.]
+
+#########################
+#   v3.3.2 - 2014-04-28 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : fix bug ajax result with ssl mode
+    [*] [root]/controllers/front/blog.php : fix ssl for front controller
+    [*] [root]/controllers/front/rss.php : fix ssl for front controller
+
+    Added Features:
+
+    [*] [root]/prestablog.php : add mini logo hdclic on the configuration menu
+    [*] [root]/img/logohdclicmini.jpg : add mini logo hdclic for the configuration menu
+
+    Improved/changed features:
+
+    [*] [root]/controllers/admin/AdminPrestaBlogAjaxController.php : replace older prestablog-ajax.php by an admin controller secure
+
+#########################
+#   v3.3.1 - 2014-04-16 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Delete print_r() on product footer hook
+
+#########################
+#   v3.3 - 2014-04-15 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Fix change lang flag for tree of categories in display form news
+    [*] [root]/prestablog.php : Fix null variable for defaultLang in display form news
+
+    Added Features:
+
+    [.]
+
+    Improved/changed features:
+
+    [+] [root]/themes/default/tpl/module_product-footer.tpl : Related article au product page compatible hook only 1.6
+    [+] [root]/themes/[theme]/css/module.css : Related article au product page compatible hook 1.5 / 1.6
+    [*] [root]/prestablog.php : Related article au product page compatible hook 1.5 / 1.6
+    [*] [root]/** : Update header php file for copyright validator
+    [*] [root]/** : Change optimisation from validator
+
+#########################
+#   v3.2 - 2014-04-14 #
+#########################
+
+    Note:
+
+    This version allows the cohabitation PrestaShop 1.5 and 1.6.
+    The changes are very numerous, and in majority are oriented on the implementation of the visual outputs respectively adapted aus PrestaShop two versions.
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Fix externe js / css link with ssl capability
+    [*] [root]/prestablog.php : Fix crop adminth_ with autocrop for better rate
+
+    Added Features:
+
+    [+] [root]/prestablog.php : Add blog menu on top nav PS 1.6
+    [+] [root]/themes/default/tpl/module_top-nav.tpl : Add blog menu on top nav PS 1.6
+    [*] [root]/themes/default/css/module.css : Add blog menu on top nav PS 1.6
+
+    Improved/changed features:
+
+    [*] [root]/class/antispam.class.php : optimise copyFromPost with getValue()
+    [*] [root]/class/categories.class.php : optimise copyFromPost with getValue()
+    [*] [root]/class/commentnews.class.php : optimise copyFromPost with getValue()
+    [*] [root]/class/news.class.php : optimise copyFromPost with getValue()
+    [+] [root]/themes/[theme]/ : optimise pictures for demo
+    [+] [root]/themes/default/tpl/module_page.tpl : add the global capture path
+    [-] [root]/themes/default/tpl/module_page-all.tpl : remove capture path
+    [*] [root]/prestablog.php : Change default configuration for block to left column
+    [*] [root]/themes/default/tpl/module_footer-last-list.tpl : adaptation for PS 1.6 footer
+    [*] [root]/prestablog.php : New method for evolution / retro PS 1.5 / 1.6
+    [*] [root]/translations/fr.php : Update translations
+    [*] [root]/themes/default : the "default" theme is optimize for PrestaShop 1.6
+    [*] [root]/themes/default-1-5 : the "default-1-5" theme is optimize for PrestaShop 1.5
+
+#########################
+#   v3.1 - 2014-03-19 #
+#########################
+
+    Note:
+
+    [.]
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Fix link of ajax product link navigation on edit article page
+    [*] [root]/controllers/front/blog.php : fix comments available when rewrite in enabled
+    [*] [root]/prestablog.php : Fix img thumb for list of news linked to product tab content
+
+    Added Features:
+
+    [+]
+
+    Improved/changed features:
+
+    [*] [root]/prestablog.php : Best quality jpg/png crop & resize for upload images
+    [*] [root]/prestablog.php : PrestaShop 1.5 & 1.6 => fix tinyMce
+    [*] [root]/prestablog.php : PrestaShop 1.5 & 1.6 => fix @ to input call on js
+    [*] [root]/controllers/front/blog.php : PrestaShop 1.5 & 1.6 => change the method of assign template
+    [+] [root]/themes/[theme]/css/rrssb.css : add styles for new social share system
+    [+] [root]/themes/[theme]/js/rrssb.min.js : add js for new social share system
+    [*] [root]/themes/[theme]/tpl/module_page-unique.tpl : change social share system and associated files
+    [+] [root]/controllers/front/blog.php : add new social share system and associated files
+    [-] [root]/controllers/front/blog.php : delete old social share system and associated files
+
+#########################
+#   v3.0 - 2014-01-06 #
+#########################
+
+    Note:
+
+    This new version has many changes. To implement this version, the ideal is to make a backup of vorte previous module (files + tables in the
+    database) to erase completely, then install the new version. Then perform your customizations from your backups.
+    The most important changes are :
+    - Multishop available
+    - Improved SEO & redirection / cannonical
+    - Backup & restore system / it’s not enabled, beta dev
+    - Categories tree management admin & front
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Fix title language installation, now not null, replace by “Blog” for all languages
+    [*] [root]/prestablog.php : Fix delete correspondance categories & news after delete news or categories
+    [+] [root]/class/categories.class.php : Add new method for fix delete correspondance categories & news after delete a category
+    [*] [root]/controllers/front/blog.php : Add SEO with redirection 301 / canonical , fix the duplicate content url
+    [*] [root]/prestablog.php : Fix empty list on slide home
+    [*] [root]/prestablog.php : Fix insert null category when add with no title default language
+    [+] [root]/prestablog.php : Add all fields of table on current dump sql for the system backup
+    [*] [root]/themes/[theme]/tpl/module_page-comment.tpl : Fix link to authentification controller
+    [*] [root]/prestablog.php : Fix switch lang to the list of categories in an article edition
+    [*] [root]/prestablog.php : Fix grammatical translation with sprintf argument on home bloc comments
+    [*] [root]/prestablog.php : Fix import xml lang active_lang
+    [*] [root]/prestablog.php : Fix display lang in list of news with the prestashop config lang core
+    [*] [root]/prestablog.php : Fix display lang in send mail comment news with the prestashop config lang core
+
+    Added Features:
+
+    [+] [root]/themes/[theme]/module_category.tpl : Add class “prestablog_cat_img”
+    [+] [root]/prestablog.php : Add configuration to show or not the empty recursive category on blog menu & bloc categories
+    [+] [root]/prestablog.php : Force auto-update configuration & installation for all indexed shop
+    [+] [root]/prestablog.php : Add a configuration to show thumbnail or not on article page
+    [+] [root]/themes/[theme]/module_page-unique.tpl : Add a test configuration to show thumbnail or not on article page
+    [+] [root]/prestablog.php : Add a configuration to show home blog image instead link into the top menu of categories
+    [+] [root]/prestablog.php : Add a configuration to show home blog link into the top menu of categories
+    [+] [root]/class/categories.class.php : Add new methods for breadcrumb browse categories list
+    [+] [root]/controllers/front/blog.php : Perform breadcrumb on browsing categories list
+    [+] [root]/themes/[theme]/module_bloc-catliste.tpl : Browse front categories option no dynamic
+    [+] [root]/prestablog.php : Add configuration tree view for categories bloc
+    [+] [root]/prestablog.php : Add front meta keywords / description / title for categories list
+    [+] [root]/prestablog.php : Add view count articles used in the categories list
+    [+] [root]/themes/[theme]/tpl/module_page-menucat.tpl : Add option show count news in category
+    [+] [root]/prestablog.php : Manage categories with a tree's organisation
+    [+] [root]/prestablog.php : Add new methods for tree's organisation of categories
+    [+] [root]/class/categories.class.php : Add new methods for tree's organisation of categories
+    [+] [root]/prestablog.php : Add a warning information to prevent bad content of XML WordPress importation
+    [+] [root]/prestablog.php : Backup & Restoration available for content / configuration / mails / translations / themes
+    [+] [root]/themes/[theme]/tpl/module_header-meta-og.tpl : Add meta OpenGraph property on share article page under facebook control content
+    [+] [root]/class/news.class.php: Add options for introduction & title length of all independant way
+    [+] [root]/prestablog.php : Add options for introduction & title length of all independant way
+    [+] [root]/prestablog-rss.php : Add options for introduction & title length of all independant way
+    [+] [root]/controllers/front/blog.php : Add options for introduction & title length of all independant way
+    [+] [root]/themes/[theme]/tpl/module_footer-lastliste.tpl : Add introduction of article with options length & activation
+    [+] [root]/prestablog.php : Add facebook OpenGraph perfomance for current article share
+    [+] [root]/class/categories.class.php : Add description & meta_title for pre content installation
+    [+] [root]/class/categories.class.php : Add new lenght of title & description for categorie bloc
+    [+] [root]/fr.php : Change translation emplacement to [root]/translations/fr.php (addons parse now correctly)
+    [+] [root]/themes/[theme]/tpl/module_category.tpl : Add file for template of category description / img / thumb
+    [+] [root]/controllers/front/blog.php : Add template for category description / img / thumb output
+    [+] [root]/themes/[theme]/js/index.php : Add index file protection into the directorie
+    [+] [root]/themes/[theme]/tpl/module_bloc-catliste.tpl : Add crop categories description
+    [+] [root]/prestablog.php : Add configuration to show crop description in bloc categories
+    [+] [root]/prestablog.php : Add description with translation support for categories
+    [+] [root]/prestablog.php : Add configuration to show or not the thumbs on bloc categories
+    [+] [root]/themes/[theme]/config.xml : Add config thumb for pictures categories
+    [+] [root]/prestablog.php : View pictures on categories list in edit news
+    [+] [root]/prestablog.php : Add system pictures crop for categories
+    [+] [root]/prestablog.php : Possible to upload pictures for categories
+    [+] [root]/themes/[theme]/tpl/up-img/c/ : Add an new folder for upload categories pictures
+    [+] [root]/prestablog.php : Add feature to detect bad configuration of template, and mails translations
+    [+] [root]/prestablog.php : Add bloc categories list option to show news count, default true
+    [+] [root]/prestablog.php : Add a smarty array config for all blog configuration to use to tpl with $prestablog_config.key
+    [+] [root]/controllers/front/blog.php : Add a smarty array config for all blog configuration to use to tpl with $prestablog_config.key
+    [+] [root]/prestablog.php : Add bloc last news option “show intro text”, turn false by default to perform SEO
+    [+] [root]/prestablog.php : Add bloc last news option “show thumb”, default true
+    [+] [root]/prestablog.php : Add a backup system of blog sql, configurations, and themes
+    [+] [root]/prestablog.php : Add demo mode for Addons demo
+    [+] [root]/prestablog.php : Add config default toggle / expand comments on article
+    [+] [root]/controllers/front/blog.php : Add config default toggle / expand comments on article
+    [+] [root]/themes/[theme]/tpl/module_page-comment.tpl : Add config default toggle / expand comments on article
+
+    Improved/changed features:
+
+    [*] [root]/prestablog.php : Fix the statistics of count categories with new system tree
+    [*] [root]/class/categories.class.php : Fix the statistics of count categories with new system tree
+    [*] [root]/classes/categories.class.php : Filter list of articles with the categories tree capability
+    [*] [root]/prestablog.php : Filter list of articles with the categories tree capability
+    [+] [root]/themes/[theme]/css/module.css : Adding class to enhance the visual rendering articles
+    [*] [root]/themes/[theme]/tpl/module_bloc-catliste.tpl : Show recursive count of categories
+    [*] [root]/classes/categories.class.php : Show recursive count of categories + category current count (articles)
+    [*] [root]/classes/categories.class.php : Empty recursive category on blog menu & bloc categories
+    [*] [root]/controllers/front/blog.php : Empty recursive category on blog menu & bloc categories
+    [+] [root]/themes/[theme]/css/module.css : The category menu of blog is now responsive
+    [*] [root]/themes/[theme]/tpl/module_page-menucat.tpl : Inversion element for responsive design
+    [-] [root]/prestablog.php : Delete all title-over link on configuration menu
+    [*] [root]/css/admin.css : Float img to left on configuration menu
+    [-] [root]/controller/front/blog.php : Remove of all Jcarousel slide elements related products in an article page + conf number of column related
+    [-] [root]/prestablog.php : Remove of all Jcarousel slide elements related products in an article page + conf number of column related
+    [-] [root]/class/news.class.php: Remove of all Jcarousel slide elements related products in an article page + conf number of column related
+    [-] [root]/js/jquery.jcarousel.min.js : Remove file
+    [-] [root]/themes/[theme]/css/module.css : Remove of all Jcarousel slide elements related products in an article page
+    [-] [root]/themes/[theme]/css/skin.css : Remove file
+    [-] [root]/prestablog.php : Remove Rss option on the category top menu
+    [+] [root]/class/categories.class.php: Add order by title in list of categories
+    [*] [root]/prestablog.php : Update column list of categories in edit article
+    [*] [root]/themes/[theme]/module_page-menucat.tpl : Browse with new categories tree adaptation
+    [+] [root]/themes/[theme]/css/module.css : Add class styles for new categories tree
+    [*] [root]/controller/front/blog.php : Browse with new categories tree adaptation
+    [*] [root]/themes/[theme]/module_pagination.tpl : Change for new categories rewrite apadation, add link_rewrite / title field on process url link
+    [*] [root]/themes/[theme]/module_bloc-catliste.tpl : Change for new categories rewrite apadation, add link_rewrite / title field on process url link
+    [*] [root]/themes/[theme]/module_page-menucat.tpl : Change for new categories rewrite apadation, add link_rewrite / title field on process url link
+    [*] [root]/class/correspondancescategories.class.php : Change for new categories rewrite apadation
+    [*] [root]/controller/front/blog.php : Change for new categories rewrite apadation
+    [-] [root]/themes/[theme]/module_page-unique.tpl : Remove rss link in social links bar
+    [*] [root]/prestablog.php : Crop the category thumbnail adminth with the custom crop on list thumbnail
+    [*] [root]/prestablog.php : Crop the article thumbnail adminth with the custom crop on list thumbnail
+    [*] [root]/themes/[theme]/** : the old reponsive theme is now the default theme
+    [*] [root]/themes/[theme]/** : Remove all not default responsive theme
+    [*] [root]/prestablog.php : Change get count news for category with a dedicated universel method
+    [*] [root]/controller/front/blog.php : Change get count news for category with a dedicated universel method
+    [+] [root]/class/categories.class.php: Add universel method to get count news for category
+    [+] [root]/prestablog.php : Add restore configuration multishop & languages for test on the new plateform with others ids configurations
+    [+] [root]/prestablog.php : Add backup configuration multishop & languages
+    [*] [root]/prestablog.php : Change rewrite rules of module routes to perform news rss feed controller
+    [+] [root]/controller/front/rss.php : Add a controller for the frontend rss feed
+    [-] [root]/prestablog-rss.php : Remove old system frontend rss feed
+    [-] [root]/js/debug.js : Delete this file, not use
+    [*] [root]/prestablog.php : Change configuration ergonomy - lot of change
+    [*] [root]/themes/[theme]/css/module.css : add new class style to better integration smarty/html/css
+    [*] [root]/themes/[theme]/tpl/module_boc-dateliste.tpl : Change integration smarty/html/css
+    [*] [root]/themes/[theme]/tpl/module_boc-catliste.tpl : Change integration smarty/html/css
+    [*] [root]/themes/[theme]/tpl/module_boc-lastliste.tpl : Change integration smarty/html/css
+    [*] [root]/prestablog.php : Change default value after install blog to display only the menu of categories on blog index page list
+    [+] [root]/prestablog.php : Add alert on restore process with direct upload
+    [*] [root]/prestablog.php : Change the update & create categories sequence
+    [+] [root]/fr.php : Add some translations
+    [*] [root]/prestablog.php : Change the runtime of configuration check and feedback error & success reload
+    [-] [root]/class/categories.class.php : Delete some declarations for empty process
+    [*] [root]/themes/[theme]/tpl/module_page-all.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_page-menucat.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_page-unique.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_page-comment.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_bloc-catliste.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_bloc-dateliste.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_bloc-lastliste.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_footer-lastliste.tpl : add and change configuration values for new $prestablog_config.key use
+    [*] [root]/themes/[theme]/tpl/module_product-tab-content.tpl : remove the introduction text in the related link for no duplicate content
+    [*] [root]/themes/default/img/rss-bloc.png : change the image
+    [*] [root]/themes/default/img/rss-bloc.xcf : change the image edit gimp
+    [+] [root]/themes/[theme]/tpl/module_page-unique.tpl : add new div content for ul style
+    [+] [root]/themes/[theme]/css/module.css : add new class ul style
+    [*] [root]/themes/[theme]/css/module.css : change categories top menu style on page blog
+
+    Debug module validator:
+
+    [*] [root]/class/antispam.class.php : For performances reasons variables should be casted intval($value) > (int)$value
+    [*] [root]/class/categories.class.php : For performances reasons variables should be casted intval($value) > (int)$value
+    [*] [root]/class/commentnews.class.php : For performances reasons variables should be casted intval($value) > (int)$value
+    [*] [root]/class/news.class.php : For performances reasons variables should be casted intval($value) > (int)$value
+    [*] [root]/class/news.class.php : strlen should be replaced with Tools::strlen($str)
+    [*] [root]/class/HZip.php : strlen should be replaced with Tools::strlen($str)
+    [*] [root]/class/HZip.php : substr should be replaced with Tools::substr($str, [...], [...])
+    [*] [root]/prestablog.php : For performances reasons variables should be casted intval($value) > (int)$value & strval
+    [*] [root]/prestablog.php : strlen should be replaced with Tools::strlen($str)
+    [*] [root]/prestablog.php : substr should be replaced with Tools::substr($str, [...], [...])
+    [*] [root]/prestablog.php : strtolower, strtoupper should be called from the Tools class. I.E : Tools::strtolower($str)
+    [*] [root]/prestablog.php : file_get_contents() should be replaced with Tools::file_get_contents()
+    [*] [root]/prestablog-rss.php : Use Tools::redirect() or Tools::redirectLink() instead of header("Location:...")
+    [*] [root]/prestablog-ajax.php : strtolower, strtoupper should be called from the Tools class. I.E : Tools::strtolower($str)
+    [*] [root]/class/Xml.php : strlen should be replaced with Tools::strlen($str)
+    [*] [root]/class/Xml.php : substr should be replaced with Tools::substr($str, [...], [...])
+    [*] [root]/class/Xml.php : strtolower, strtoupper should be called from the Tools class. I.E : Tools::strtolower($str)
+    [*] [root]/class/Xml.php : Substitute url externe of xmlns attribute value
+    [*] [root]/class/Xml.php : file_get_contents() should be replaced with Tools::file_get_contents()
+
+#########################
+#   v2.072 - 2013-09-24 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/class/categories.class.php : fix bug for new ‘parent’ field with a null value
+
+#########################
+#   v2.071 - 2013-09-21 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/class/antispam.class.php : change al isGenericName to isString validation
+    [*] [root]/class/categories.class.php : change al isGenericName to isString validation
+    [*] [root]/class/commentnews.class.php : change al isGenericName to isString validation
+    [*] [root]/class/news.class.php : change al isGenericName to isString validation
+
+    Added Features:
+
+    [+] [root]/prestablog.php : Add display version in configuration menu
+
+    Improved/changed features:
+
+    [*] [root]/fr.php : Change some translations
+    [*] [root]/css/admin.css : Perform visual style on module configuration
+
+#########################
+#   v2.07 - 2013-09-20 #
+#########################
+
+    Fixed bugs:
+
+    [+] [root]/mails/en/** : add original /en folder for mails template
+
+    Fixed warnings:
+
+    [*] [root]/themes/[theme]/tpl/module_page-comment.tpl : fix AntiSpam variable
+    [*] [root]/prestablog.php : rename hook registration with “R” UpperCase on “displayRightColumn”
+
+    Added Features:
+
+    [+] [root]/themes/[theme]/tpl/module_footer-lastliste.tpl : new tpl for footer last list
+    [+] [root]/prestablog.php : Add footer list last news
+    [+] [root]/prestablog.php : Configuration for order blocs on left and right columns
+    [+] [root]/prestablog-ajax.php : Configuration for order blocs on left and right columns
+    [+] [root]/css/admin.css : Add some css classes for new features
+    [+] [root]/prestablog.php : New hook for product tab linked with blog articles, new tpl
+    [+] [root]/prestablog.php : Column for list of comments,  better truncate, no entire words are truncate
+    [+] [root]/fr.php : Add some translations
+    [+] [root]/prestablog.php : Add new column in list of news to see how many products are linked
+    [+] [root]/prestablog.php : Add new configuration for always show the comments on article edition
+    [+] [root]/prestablog.php : Add new menus “Help / Informations”, “Help / Faq”
+    [+] [root]/themes/responsive-nivo : Add new responsive theme
+
+    Improved/changed features:
+
+    [+] [root]/themes/[theme]/module.css : new styles for footer last list
+    [*] [root]/js/module-slide.js : add new slide for responsive theme
+    [*] [root]/prestablog.php : Change admin label of input configuration
+    [*] [root]/prestablog.php : Cut slide configuration only for default theme based of the module, called "default" or "black"
+    [*] [root]/prestablog.php : new structure of the configuration menus
+    [*] [root]/prestablog.php : compatibility for PrestaShop 1.5.5.0
+    [*] [root]/fr.php : Change some translations
+
+#########################
+#   v2.062 - 2013-08-22 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : fix JS bug on article edition rewrite/lang/title
+
+    Improved/changed features:
+
+    [+] [root]/fr.php : Add and change some translations
+    [*] [root]/prestablog.php : change old menu for new drop down dynamic menu
+    [*] [root]/prestablog.php : add parse method for escape magicquote problem from old hosters
+    [*] [root]/prestablog.php : disabled beta menu “help” / “debug”
+
+#########################
+#   v2.061 - 2013-07-26 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Escape error when some input for default language are not specified (category & antispam)
+    [*] [root]/prestablog.php : Fix return on list comments after delete
+    [*] [root]/prestablog.php : Fix list navigation page
+    [*] [root]/class/commentnews.class.php : Fix list navigation page
+
+    Added Features:
+
+    [+] [root]/prestablog.php : Add configuration values to custom number of item / lists on news & comments
+    [+] [root]/prestablog.php : Add import upload file name configuration for wordpress xml import
+    [+] [root]/fr.php : Add and change some translations
+    [+] add file : [root]/img/debug.gif
+    [+] [root]/prestablog.php : Add a debug configuration for check & debug module status
+    [+] [root]/prestablog.php : Add a default language of store var in the class to use this
+
+    Improved/changed features:
+
+    [*] [root]/themes/[theme]/tpl/up-img/** : update default pictures
+    [*] [root]/themes/[theme]/tpl/module_page-all.tpl : delete width & height attribute for image in list news
+    [*] [root]/prestablog.php : Change installation & delete configuration values for best way to develop
+    [*] [root]/prestablog.php : Perform visual style on module configuration
+    [*] [root]/css/admin.css : Perform visual style on module configuration
+    [+] [root]/fr.php : Add and change some translations
+
+#########################
+#   v2.06 - 2013-06-18 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/themes/[theme]/css/module.css : Delete background ‘none’ on slide h2
+
+    Added Features:
+
+    [+] add file : [root]/img/list-next2.gif
+    [+] add file : [root]/controllers/front/blog.php
+    [+] add an AntiSpam system to secure soumissions of public comments
+    [*] add file : [root]/themes/[theme]/tpl/module_page-comment.tpl for AntiSpam system
+    [*] add file : [root]/controllers/front/default.php for AntiSpam system
+    [+] add file : [root]/class/antispam.class.php for AntiSpam system
+
+    Remove Features:
+
+    [-] del file : [root]/controllers/front/default.php
+
+    Improved/changed features:
+
+    [*] [root]/prestablog-ajax.php : Change access path of include files compatibility hosters
+    [*] [root]/class/news.class.php : Load auto setlocale date available in list of news
+    [*] [root]/themes/[theme]/tpl/module_slide.tpl setlocale date available from current lang
+    [*] [root]/prestablog.php : Change all links references for new controller ‘blog’
+    [*] [root]/prestablog.php : Change all routes of blog module for best and perform rewrite
+    [+] [root]/controllers/front/blog.php : Add controllers ‘blog’ for perform new rewrite rules
+    [-] [root]/controllers/front/default.php : Delete controller ‘default’ for perform new rewrite rules
+    [+] [root]/prestablog-ajax.php : Perform system search for product link for article edition, with navigation tools
+    [+] [root]/css/admin.css : Perform system search for product link for article edition, with navigation tools
+    [+] [root]/prestablog.php : Perform system search for product link for article edition, with navigation tools
+    [*] [root]/prestablog.php : Perform rewrite output url for cyrillics caracters
+    [*] [root]/fr.php : Add and change some translations
+
+#########################
+#   v2.051 - 2013-04-16 #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Retro-compatibility over QuickAccess lang install
+
+#########################
+#   v2.05 - 2013-03-26  #
+#########################
+
+    Added Features:
+
+    [*] [root]/prestablog.php : add all configuration for categories menu for blog page
+    [*] [root]/themes/[theme]/css/module.css : perform class css for categories menu on page blog
+    [*] [root]/themes/[theme]/tpl/module_page.tpl : manage categories menu on page blog
+    [+] [root]/themes/[theme]/tpl/module_page-menucat.tpl : view categories menu on page blog
+    [*] [root]/fr.php : Add translation for categories menu on page blog in admin configuration
+    [*] [root]/controllers/front/default.php : manage categories menu on page blog
+    [*] [root]/controllers/front/default.php : don’t list linked products of current news when product catalogue are disabled
+    [+] [root]/class/news.class.php : view products link disabled from catalogue
+    [+] [root]/css/admin.css : view products link disabled from catalogue
+
+    Fixed bugs:
+
+    [*] [root]/prestablog.php : Rename element configuration for admin mail
+    [*] [root]/class/news.class.php : Update list product link in article with deleted products catalogue
+    [*] [root]/class/news.class.php : PrestaShop #PSCFV-8160 iframe in editor
+    [*] [root]/class/commentnews.class.php : PrestaShop #PSCFV-8160 iframe in editor
+    [*] [root]/prestablog-rss.php : No duplicate domain/url in list of items for link news
+    [*] [root]/prestablog.php : Return wrong id ajax list from link products news
+    [*] [root]/prestablog-ajax.php : Return wrong id ajax list from link products news
+
+    Improved/changed features:
+
+    [-] [root]/fr.php : Delete translation
+
+#########################
+#   v2.04 - 2013-01-30  #
+#########################
+
+    Fixed bugs:
+
+    [*] [root]/fr.php : Add translation for products links on article page
+
+    Improved/changed features:
+
+    [*] [root]/themes/[theme]/css/skin.css : perform class css
+    [+] [root]/themes/[theme]/tpl/module_page-unique.tpl : perform view for the list of link products of current news
+
+#########################
+#   v2.03 - 2013-01-16  #
+#########################
+
+    Added Features:
+
+    [+] [root]/controllers/front/default.php : add feature to list link products of current news
+    [+] [root]/themes/[theme]/tpl/module_page-unique.tpl : add feature to list link products of current news
+    [+] [root]/themes/[theme]/tpl/module_bloc-catliste.tpl : add new native css class for retro comp title bloc
+    [+] [root]/themes/[theme]/tpl/module_bloc-dateliste.tpl : add new native css class for retro comp title bloc
+    [+] [root]/themes/[theme]/tpl/module_bloc-lastliste.tpl : add new native css class for retro comp title bloc
+    [+] [root]/js/jquery.jcarousel.min.js : add file to list dynamic view of list link products of current news
+    [+] [root]/prestablog.php : add feature to manage link for products choice
+    [+] [root]/prestablog-ajax.php : add feature to manage link for products choice / search products in new form edit
+    [+] [root]/prestablog-ajax.php : secure ajax request for search with admin token verification
+    [+] [root]/class/news.class.php : add feature to manage link for products choice
+    [+] [root]/prestablog.php : add an automatic QuickAccess for easely access to the blog configuration module
+    [*] [root]/translations/fr.php : add manage and view link products translation
+
+    Fixed bugs:
+
+    [*] [root]/class/commentnews.class.php : perform insertion string into database
+    [+] [root]/prestablog.php : fix return declaration route minor
+    [+] [root]/prestablog.php : add forgot french translation 'of'
+    [+] [root]/prestablog.php : fix date and time picker from articles and comments editions
+
+    Improved/changed features:
+
+    [*] [root]/translation/en.php => [root]/en.php : For Addons parse bug of language use
+    [*] [root]/translation/fr.php => [root]/fr.php : For Addons parse bug of language use
+    [+] [root]/prestablog.php : update route system with new dispatcher capability
+    [*] [root]/prestablog.php : update deprecated functions for new system ImageManager core
+    [*] [root]/class/categories.class.php : update for new ObjectModel
+    [*] [root]/class/news.class.php : update for new ObjectModel
+    [*] [root]/class/commentnews.class.php : update for new ObjectModel
+    [*] [root]/css/admin.css : add ‘prestablog-autocomplete’ class to list search ajax on product form edit
+    [*] [root]/translations/fr.php : change all "news" to "articles" translation
+    [*] [root]/translations/fr.php : change some result search translation
+    [*] [root]/prestablog.php : change gif in news form edit
+
+    Database Added / Changed:
+
+    [+] Table [pre]prestablog_news : Add new field for manage number of rows to show form products link slide
+    [+] Add new table to manage link for products choice
+
+#########################
+#   v2.02 - 2012-12-04  #
+#########################
+
+    Added Features:
+
+    [+] backup original ./override/classes/Dispatcher.php before installation
+    [+] added new module [root]/backup_override for backup file before installation
+
+#########################
+#   v2.01 - 2012-12-03  #
+#########################
+
+    Added Features:
+
+    [+] added new theme "black"
+    [+] added FilesMatch extension ".txt" on .htaccess module file
+
+    Improved/changed features:
+
+    [*] [root]/themes/[theme]/css/module.css : perform class css
+    [*] [root]/themes/[theme]/tpl/module_page-all.tpl : add a new class blog in li for list
+
+#########################
+#   v2.00 - 2012-11-01  #
+#########################
+
+    Upgrade :
+
+    [*] Update all code for PrestaShop 1.5 Kernel

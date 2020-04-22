@@ -1,0 +1,21 @@
+.ajax_result {
+	position: absolute;
+	padding: 3px;
+	z-index: 99;
+	background-color: #F9F9F9;
+	border: 1px solid #E8E8E8;
+	width: 100%;
+}
+#ajax_add_product span {
+	display: block;
+	padding: 3px 3px;
+	margin: 5px 0;
+	background-color: #6ACE61;
+	border: 1px solid #6ACE61;
+	border-radius: 3px 3px;
+}
+
+#ajax_add_product span i {
+	cursor: pointer;
+}
+.link_setting {float:right;padding-right:15px;}

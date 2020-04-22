@@ -1,0 +1,12 @@
+[02-Jan-2015 16:24:51 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:27:21 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:28:03 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:28:14 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:30:45 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:30:45 US/Eastern] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 181
+[02-Jan-2015 16:30:45 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 207
+[02-Jan-2015 16:30:51 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:30:51 US/Eastern] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 181
+[02-Jan-2015 16:30:51 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 207
+[02-Jan-2015 16:30:54 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251
+[02-Jan-2015 16:31:04 US/Eastern] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/medicalmobi/public_html/modules/blocktestimonial/blocktestimonial.php on line 251

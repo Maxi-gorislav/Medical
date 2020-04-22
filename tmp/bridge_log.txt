@@ -1,0 +1,473 @@
+[Wed, 06 May 2015 17:09:02 +0000]Intializing
+[Wed, 06 May 2015 17:09:02 +0000]Connecting to database
+[Wed, 06 May 2015 17:09:02 +0000]Delete old temp files
+[Wed, 06 May 2015 17:09:02 +0000]Creating backup file
+[Wed, 06 May 2015 17:09:02 +0000]Selecting tables
+[Wed, 06 May 2015 17:09:02 +0000]Handling table `ps_access` [359].
+[Wed, 06 May 2015 17:09:02 +0000]-SELECT * FROM `ps_access` LIMIT 0, 61232
+[Wed, 06 May 2015 17:09:02 +0000]Handling table `ps_accessory` [0].
+[Wed, 06 May 2015 17:09:02 +0000]Handling table `ps_address` [960].
+[Wed, 06 May 2015 17:09:02 +0000]-SELECT * FROM `ps_address` LIMIT 0, 40921
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_address_format` [184].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_address_format` LIMIT 0, 23499
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_advice` [23].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_advice` LIMIT 0, 11766
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_advice_lang` [23].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_advice_lang` LIMIT 0, 982
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_alias` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attachment` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attachment_lang` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute` [17].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute` LIMIT 0, 8703
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_group` [7].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute_group` LIMIT 0, 3584
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_group_lang` [7].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute_group_lang` LIMIT 0, 3584
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_group_shop` [7].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute_group_shop` LIMIT 0, 3584
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_impact` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_lang` [17].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute_lang` LIMIT 0, 8703
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_attribute_shop` [17].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_attribute_shop` LIMIT 0, 8703
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_authorizedotnet_refund_history` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_authorizedotnet_refunds` [35].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_authorizedotnet_refunds` LIMIT 0, 254201
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_badge` [236].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_badge` LIMIT 0, 119838
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_badge_lang` [355].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_badge_lang` LIMIT 0, 45345
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_blocklink` [5].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_blocklink` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_blocklink_lang` [5].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_blocklink_lang` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_blocklink_shop` [5].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_blocklink_shop` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier_group` [27].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier_group` LIMIT 0, 13821
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier_lang` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier_lang` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier_shop` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier_shop` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier_tax_rules_group_shop` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier_tax_rules_group_shop` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_carrier_zone` [38].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_carrier_zone` LIMIT 0, 19419
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart` [1 105].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cart` LIMIT 0, 70494
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_cart_rule` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_product` [1 190].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cart_product` LIMIT 0, 86481
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_carrier` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_combination` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_country` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_group` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_lang` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_product_rule` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_product_rule_group` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_product_rule_value` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cart_rule_shop` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_category` [23].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_category` LIMIT 0, 11766
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_category_group` [68].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_category_group` LIMIT 0, 34809
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_category_lang` [23].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_category_lang` LIMIT 0, 11766
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_category_product` [99].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_category_product` LIMIT 0, 50535
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_category_shop` [23].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_category_shop` LIMIT 0, 11766
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms` [6].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_block` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_block` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_block_lang` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_block_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_block_page` [5].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_block_page` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_block_shop` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_block_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_category` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_category` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_category_lang` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_category_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_lang` [6].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_lang` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cms_shop` [6].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_cms_shop` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_compare` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_compare` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_compare_product` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_compare_product` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_condition` [233].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_condition` LIMIT 0, 23832
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_condition_advice` [1 699].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_condition_advice` LIMIT 0, 107547
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_condition_badge` [238].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_condition_badge` LIMIT 0, 121575
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_configuration` [511].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_configuration` LIMIT 0, 43465
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_configuration_kpi` [44].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_configuration_kpi` LIMIT 0, 22491
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_configuration_kpi_lang` [6].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_configuration_kpi_lang` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_configuration_lang` [11].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_configuration_lang` LIMIT 0, 5631
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_connections_page` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_connections_source` [4 947].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_connections_source` LIMIT 0, 26053
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_contact` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_contact` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_contact_lang` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_contact_lang` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_contact_shop` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_contact_shop` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_contentbox` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_contentbox` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_contentbox_files` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_contentbox_files` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_country` [244].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_country` LIMIT 0, 123363
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_country_lang` [244].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_country_lang` LIMIT 0, 123363
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_country_shop` [244].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_country_shop` LIMIT 0, 123363
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_cronjobs` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_currency` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_currency` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_currency_shop` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_currency_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customer` [691].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_customer` LIMIT 0, 32141
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customer_group` [935].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_customer_group` LIMIT 0, 158277
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customer_message` [18].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_customer_message` LIMIT 0, 9209
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customer_message_sync_imap` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customer_thread` [16].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_customer_thread` LIMIT 0, 8185
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customization` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customization_field` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customization_field_lang` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_customized_data` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_date_range` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_delivery` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_delivery` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_employee` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_employee` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_employee_shop` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_employee_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature_lang` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature_product` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature_shop` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature_value` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_feature_value_lang` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_gender` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_gender` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_gender_lang` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_gender_lang` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_group` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_group` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_group_lang` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_group_lang` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_group_reduction` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_group_shop` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_group_shop` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_homeslider` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_homeslider` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_homeslider_slides` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_homeslider_slides` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_homeslider_slides_lang` [3].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_homeslider_slides_lang` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_hook` [127].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_hook` LIMIT 0, 21621
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_hook_alias` [86].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_hook_alias` LIMIT 0, 43920
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_hook_module` [275].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_hook_module` LIMIT 0, 139811
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_hook_module_exceptions` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_hook_module_exceptions` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_image` [101].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_image` LIMIT 0, 51465
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_image_lang` [101].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_image_lang` LIMIT 0, 51465
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_image_shop` [101].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_image_shop` LIMIT 0, 51465
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_image_type` [9].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_image_type` LIMIT 0, 4608
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_import_match` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_info` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_info` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_info_lang` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_info_lang` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_lang` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_lang_shop` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_lang_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_category` [160].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_category` LIMIT 0, 81444
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_filter` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_filter` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_filter_shop` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_friendly_url` [34].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_friendly_url` LIMIT 0, 17405
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_attribute_group` [5].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_indexable_attribute_group` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_attribute_group_lang_value` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_indexable_attribute_group_lang_value` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_attribute_lang_value` [4].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_indexable_attribute_lang_value` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_feature` [7].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_indexable_feature` LIMIT 0, 3584
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_feature_lang_value` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_indexable_feature_value_lang_value` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_price_index` [53].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_price_index` LIMIT 0, 27061
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_layered_product_attribute` [17].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_layered_product_attribute` LIMIT 0, 8703
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_linksmenutop` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_linksmenutop` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_linksmenutop_lang` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_linksmenutop_lang` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_log` [135].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_log` LIMIT 0, 68760
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_mailalert_customer_oos` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_manufacturer` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_manufacturer` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_manufacturer_lang` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_manufacturer_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_manufacturer_shop` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_manufacturer_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_memcached_servers` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_message` [607].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_message` LIMIT 0, 34522
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_message_readed` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_meta` [36].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_meta` LIMIT 0, 18397
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_meta_lang` [29].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_meta_lang` LIMIT 0, 14848
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module` [77].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module` LIMIT 0, 39384
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_access` [231].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_access` LIMIT 0, 118150
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_country` [918].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_country` LIMIT 0, 116509
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_currency` [6].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_currency` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_group` [231].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_group` LIMIT 0, 118150
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_preference` [1].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_preference` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_module_shop` [71].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_module_shop` LIMIT 0, 36315
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_newsletter` [2].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_newsletter` LIMIT 0, 1025
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_operating_system` [7].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_operating_system` LIMIT 0, 3584
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_carrier` [643].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_order_carrier` LIMIT 0, 65537
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_cart_rule` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_detail` [700].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_order_detail` LIMIT 0, 22371
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_detail_tax` [0].
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_history` [671].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_order_history` LIMIT 0, 85599
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_invoice` [557].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_order_invoice` LIMIT 0, 40722
+[Wed, 06 May 2015 17:09:03 +0000]Handling table `ps_order_invoice_payment` [719].
+[Wed, 06 May 2015 17:09:03 +0000]-SELECT * FROM `ps_order_invoice_payment` LIMIT 0, 121575
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_invoice_tax` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_message` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_message` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_message_lang` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_message_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_payment` [685].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_payment` LIMIT 0, 69906
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_return` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_return_detail` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_return_state` [5].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_return_state` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_return_state_lang` [5].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_return_state_lang` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_slip` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_slip_detail` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_state` [12].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_state` LIMIT 0, 6142
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_order_state_lang` [12].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_order_state_lang` LIMIT 0, 6142
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_orders` [610].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_orders` LIMIT 0, 20816
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_pack` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_page` [95].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_page` LIMIT 0, 48490
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_page_type` [25].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_page_type` LIMIT 0, 12789
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_page_viewed` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_paypal_usa_transaction` [5].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_paypal_usa_transaction` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product` [49].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product` LIMIT 0, 25042
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_attachment` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_attribute` [16].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_attribute` LIMIT 0, 8185
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_attribute_combination` [20].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_attribute_combination` LIMIT 0, 10231
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_attribute_image` [10].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_attribute_image` LIMIT 0, 5119
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_attribute_shop` [16].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_attribute_shop` LIMIT 0, 8185
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_carrier` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_criterion` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_comment_criterion` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_criterion_category` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_criterion_lang` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_comment_criterion_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_criterion_product` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_grade` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_report` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_comment_usefulness` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_country_tax` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_download` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_group_reduction_cache` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_lang` [66].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_lang` LIMIT 0, 4828
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_sale` [20].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_sale` LIMIT 0, 10231
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_shop` [49].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_shop` LIMIT 0, 25042
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_supplier` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_product_tag` [41].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_product_tag` LIMIT 0, 20973
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_profile` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_profile` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_profile_lang` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_profile_lang` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_quick_access` [3].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_quick_access` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_quick_access_lang` [3].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_quick_access_lang` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_range_price` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_range_price` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_range_weight` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_range_weight` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_referrer` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_referrer_cache` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_referrer_shop` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_reinsurance` [5].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_reinsurance` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_reinsurance_lang` [5].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_reinsurance_lang` LIMIT 0, 2561
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_request_sql` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_required_field` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_risk` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_risk` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_risk_lang` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_risk_lang` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_scene` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_scene_category` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_scene_lang` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_scene_products` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_scene_shop` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_search_engine` [38].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_search_engine` LIMIT 0, 19419
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_search_index` [3 437].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_search_index` LIMIT 0, 195085
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_search_word` [1 157].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_search_word` LIMIT 0, 118150
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_sekeyword` [1 142].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_sekeyword` LIMIT 0, 96422
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_shop` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_shop_group` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_shop_group` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_shop_url` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_shop_url` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_specific_price` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_specific_price_priority` [17].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_specific_price_priority` LIMIT 0, 8703
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_specific_price_rule` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_specific_price_rule_condition` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_specific_price_rule_condition_group` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_state` [312].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_state` LIMIT 0, 158277
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_statssearch` [699].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_statssearch` LIMIT 0, 71091
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_stock` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_stock_available` [65].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_stock_available` LIMIT 0, 33158
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_stock_mvt` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_stock_mvt_reason` [8].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_stock_mvt_reason` LIMIT 0, 4095
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_stock_mvt_reason_lang` [8].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_stock_mvt_reason_lang` LIMIT 0, 4095
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_store` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_store_shop` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supplier` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_supplier` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supplier_lang` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_supplier_lang` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supplier_shop` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_supplier_shop` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order_detail` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order_history` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order_receipt_history` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order_state` [6].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_supply_order_state` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_supply_order_state_lang` [6].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_supply_order_state_lang` LIMIT 0, 3073
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tab` [105].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tab` LIMIT 0, 53432
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tab_advice` [1 620].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tab_advice` LIMIT 0, 137519
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tab_lang` [105].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tab_lang` LIMIT 0, 53432
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tab_module_preference` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tag` [15].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tag` LIMIT 0, 7676
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tax` [103].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tax` LIMIT 0, 52430
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tax_lang` [103].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tax_lang` LIMIT 0, 52430
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tax_rule` [103].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tax_rule` LIMIT 0, 52430
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tax_rules_group` [53].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tax_rules_group` LIMIT 0, 27061
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_tax_rules_group_shop` [53].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_tax_rules_group_shop` LIMIT 0, 27061
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_testimonial` [2].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_testimonial` LIMIT 0, 56300
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_testimonials` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_theme` [1].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_theme` LIMIT 0, 513
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_theme_meta` [36].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_theme_meta` LIMIT 0, 18397
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_theme_specific` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_themeconfigurator` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_themeconfigurator` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_timezone` [389].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_timezone` LIMIT 0, 66053
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_warehouse` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_warehouse_carrier` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_warehouse_product_location` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_warehouse_shop` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_web_browser` [11].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_web_browser` LIMIT 0, 5631
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_webservice_account` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_webservice_account_shop` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_webservice_permission` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_wishlist` [3].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_wishlist` LIMIT 0, 1537
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_wishlist_email` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_wishlist_product` [4].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_wishlist_product` LIMIT 0, 2049
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_wishlist_product_cart` [0].
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_zone` [8].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_zone` LIMIT 0, 4095
+[Wed, 06 May 2015 17:09:04 +0000]Handling table `ps_zone_shop` [8].
+[Wed, 06 May 2015 17:09:04 +0000]-SELECT * FROM `ps_zone_shop` LIMIT 0, 4095

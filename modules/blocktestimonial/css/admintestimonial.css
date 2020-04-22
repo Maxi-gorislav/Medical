@@ -1,0 +1,32 @@
+#box-table-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin: 5px;
+	width: 98%;
+	text-align: left;
+	border-collapse: collapse;
+}
+#box-table-a th
+{
+	font-size: 13px;
+	font-weight: bold;
+	padding: 8px;
+	background: #7f7b69;
+	border-top: 4px solid #5f5c4e;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+#box-table-a td
+{
+	padding: 8px;
+	background: #bfb89e; 
+	border-bottom: 1px solid #fff;
+	color: #000;
+	border-top: 1px solid transparent;
+}
+#box-table-a tr:hover td
+{
+	background: #bfbcae;
+	color: #339;
+}

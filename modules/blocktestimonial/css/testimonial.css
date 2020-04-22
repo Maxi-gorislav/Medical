@@ -1,0 +1,176 @@
+form.testimonialForm {
+	width: 100%;
+	font-size: 1.3em;
+	color: #333;
+	}
+	
+form.testimonialForm legend { padding-left: 0; border: 2px solid #666; background: #fff; margin-top 10px;}
+	
+form.testimonialForm legend,
+form.testimonialForm  label { color: #333; }
+
+form.testimonialForm  fieldset {
+	border: none;
+	border: 2px solid #666;
+	background: #ccc;
+	}
+	
+form.testimonialForm  fieldset fieldset { background: none; }
+	
+form.testimonialForm  fieldset li {
+	padding: 5px 10px 7px;
+	background: url('../image/Form-divider.gif') left bottom repeat-x;
+	}
+
+	
+	form.testimonialForm  fieldset { margin-bottom: 10px; }
+	
+form.testimonialForm  legend {
+	padding: 0 2px;
+	margin-top: 10px;
+	font-size: 1.3em;
+	font-weight: bold;
+	_margin: 0 -7px; /* IE Win */
+	}
+	
+form.testimonialForm  label {
+	display: inline-block;
+	line-height: 1.8;
+	vertical-align: top;
+	}
+	
+form.testimonialForm  fieldset ol {
+	margin: 0;
+	padding: 0;
+	}
+	
+form.testimonialForm  fieldset li {
+	list-style: none;
+	padding: 5px;
+	margin: 0;
+	}
+	
+form.testimonialForm  fieldset fieldset {
+	border: none;
+	margin: 3px 0 0;
+	}
+	
+form.testimonialForm  fieldset fieldset legend {
+	padding: 0 0 5px;
+	font-weight: normal;
+	}
+	
+form.testimonialForm  fieldset fieldset label {
+	display: block;
+	width: auto;
+	}
+
+form.testimonialForm  em {
+	font-weight: bold;
+	font-style: normal;
+	color: #f00;
+	}
+
+.testimonialsubmit
+{
+           background: red;
+           color: white;
+           padding: 2px;
+           border: 1px solid #781351
+}
+
+.blocktestimonialrandom
+{
+           padding: 2px;
+           background: #ccc;
+}
+
+
+.addblocktestimonial 
+{
+background: red;
+padding: 5px;
+margin: 5px;
+width: 30%;
+font-size: 1.2em;
+}
+
+.addblocktestimonial a
+{
+color: #fff;
+text-decoration: none;
+}
+
+.blocktestimonials
+{
+    padding: 5px !important;
+}
+
+.testimonial {
+border: 2px solid #999;
+background: #ccc;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-bottom: 5px;
+min-height:150px;
+}
+
+.testimonialSpeech
+{
+background: url('../image/speechBubble.png') no-repeat;
+min-height: 100px;
+margin: 5px 2px 2px 0px;
+padding: 25px 2px 2px 15px;
+color: #fff;
+}
+
+#randomtestimonial a
+{
+color: #fff;
+}
+
+.blocktestimonial a, p{
+font-size: 1.2em
+}
+
+.testimonialhead
+{
+background: #999;
+color: white !important;
+padding: 5px;
+font-size: 1.5em;
+}
+
+.testimonialhead a
+{
+color: white !important;
+padding: 5px;
+text-decoration: none;
+
+}
+
+.testimonialbody
+{
+background: #fff;
+color: black;
+padding: 5px;
+}
+
+form.testimonialForm  label { width: 160px; } /* Width of labels */
+form.testimonialForm  fieldset fieldset label { margin-left: 123px; } /* Width plus 3 (html space) */
+
+/*\*//*/ form.testimonialForm legend { display: inline-block; } /* IE Mac legend fix */
+
+#pagination a {
+text-decoration:none;
+}
+
+.testimonialImage {
+
+padding:8px;
+border:solid;
+border-color: #dddddd #aaaaaa #aaaaaa #dddddd;
+border-width: 1px 2px 2px 1px;
+background-color:white;
+
+}

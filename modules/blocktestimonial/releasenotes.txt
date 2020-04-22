@@ -1,0 +1,21 @@
+Release Notes Prestashop Testimonials Manager Author David StClair www.techietips.net
+
+Version 1.3
+###########
+
+-Added PHP clean testimonial input field function
+
+-Added PHP validate testimonial input field function
+
+-Added upload image functionality
+
+-Added remember field input on post failure (saves having to type 
+out fields again upon post failure)
+
+-Moved js image and css files to approprate directories
+
+Version 1.4.2
+=============
+
+Updated Module to work to with smarty 3 - Prestashop version 1.4 and above.
+Added improved CSS

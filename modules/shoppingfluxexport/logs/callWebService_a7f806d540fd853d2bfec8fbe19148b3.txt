@@ -1,0 +1,2269 @@
+
+19/06/2017 11:26:09 AM - 
+19/06/2017 11:26:09 AM - ------- Start Call Webservice -------
+19/06/2017 11:26:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=IsClient&amp;MODE=Production&amp;REQUEST=0
+19/06/2017 11:26:09 AM - XML Infos
+19/06/2017 11:26:09 AM - 
+19/06/2017 11:26:09 AM - XML Infos Curl Response
+19/06/2017 11:26:09 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-19T17:26:09+02:00</Date><Call>IsClient</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Status>New</Status><Price>0</Price></Response></Result>
+
+19/06/2017 11:26:09 AM - ------- End Call Webservice -------
+19/06/2017 11:26:09 AM - 
+19/06/2017 03:29:17 PM - 
+19/06/2017 03:29:17 PM - ------- Start Call Webservice -------
+19/06/2017 03:29:17 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+19/06/2017 03:29:17 PM - XML Infos
+19/06/2017 03:29:17 PM - 
+19/06/2017 03:29:17 PM - XML Infos Curl Response
+19/06/2017 03:29:17 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-19T21:29:17+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+19/06/2017 03:29:17 PM - ------- End Call Webservice -------
+19/06/2017 03:29:17 PM - 
+20/06/2017 09:39:48 AM - 
+20/06/2017 09:39:48 AM - ------- Start Call Webservice -------
+20/06/2017 09:39:48 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 09:39:48 AM - XML Infos
+20/06/2017 09:39:48 AM - 
+20/06/2017 09:39:49 AM - XML Infos Curl Response
+20/06/2017 09:39:49 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T15:39:48+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 09:39:49 AM - ------- End Call Webservice -------
+20/06/2017 09:39:49 AM - 
+20/06/2017 10:23:59 AM - 
+20/06/2017 10:23:59 AM - ------- Start Call Webservice -------
+20/06/2017 10:23:59 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 10:23:59 AM - XML Infos
+20/06/2017 10:23:59 AM - 
+20/06/2017 10:24:00 AM - XML Infos Curl Response
+20/06/2017 10:24:00 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T16:23:59+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 10:24:00 AM - ------- End Call Webservice -------
+20/06/2017 10:24:00 AM - 
+20/06/2017 11:44:39 AM - 
+20/06/2017 11:44:39 AM - ------- Start Call Webservice -------
+20/06/2017 11:44:39 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 11:44:39 AM - XML Infos
+20/06/2017 11:44:39 AM - 
+20/06/2017 11:44:40 AM - XML Infos Curl Response
+20/06/2017 11:44:40 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T17:44:39+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 11:44:40 AM - ------- End Call Webservice -------
+20/06/2017 11:44:40 AM - 
+20/06/2017 11:45:57 AM - 
+20/06/2017 11:45:57 AM - ------- Start Call Webservice -------
+20/06/2017 11:45:57 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 11:45:57 AM - XML Infos
+20/06/2017 11:45:57 AM - 
+20/06/2017 11:45:57 AM - XML Infos Curl Response
+20/06/2017 11:45:57 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T17:45:57+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 11:45:57 AM - ------- End Call Webservice -------
+20/06/2017 11:45:57 AM - 
+20/06/2017 12:48:25 PM - 
+20/06/2017 12:48:25 PM - ------- Start Call Webservice -------
+20/06/2017 12:48:25 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 12:48:25 PM - XML Infos
+20/06/2017 12:48:25 PM - 
+20/06/2017 12:48:26 PM - XML Infos Curl Response
+20/06/2017 12:48:26 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T18:48:25+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 12:48:26 PM - ------- End Call Webservice -------
+20/06/2017 12:48:26 PM - 
+20/06/2017 12:50:52 PM - 
+20/06/2017 12:50:52 PM - ------- Start Call Webservice -------
+20/06/2017 12:50:52 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 12:50:52 PM - XML Infos
+20/06/2017 12:50:52 PM - 
+20/06/2017 12:50:53 PM - XML Infos Curl Response
+20/06/2017 12:50:53 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T18:50:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 12:50:53 PM - ------- End Call Webservice -------
+20/06/2017 12:50:53 PM - 
+20/06/2017 03:52:47 PM - 
+20/06/2017 03:52:47 PM - ------- Start Call Webservice -------
+20/06/2017 03:52:47 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+20/06/2017 03:52:47 PM - XML Infos
+20/06/2017 03:52:47 PM - 
+20/06/2017 03:52:48 PM - XML Infos Curl Response
+20/06/2017 03:52:48 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-20T21:52:47+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+20/06/2017 03:52:48 PM - ------- End Call Webservice -------
+20/06/2017 03:52:48 PM - 
+21/06/2017 08:43:52 AM - 
+21/06/2017 08:43:52 AM - ------- Start Call Webservice -------
+21/06/2017 08:43:52 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+21/06/2017 08:43:52 AM - XML Infos
+21/06/2017 08:43:52 AM - 
+21/06/2017 08:43:53 AM - XML Infos Curl Response
+21/06/2017 08:43:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-21T14:43:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+21/06/2017 08:43:53 AM - ------- End Call Webservice -------
+21/06/2017 08:43:53 AM - 
+21/06/2017 08:48:35 AM - 
+21/06/2017 08:48:35 AM - ------- Start Call Webservice -------
+21/06/2017 08:48:35 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+21/06/2017 08:48:35 AM - XML Infos
+21/06/2017 08:48:35 AM - 
+21/06/2017 08:48:36 AM - XML Infos Curl Response
+21/06/2017 08:48:36 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-21T14:48:35+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+21/06/2017 08:48:36 AM - ------- End Call Webservice -------
+21/06/2017 08:48:36 AM - 
+21/06/2017 01:52:04 PM - 
+21/06/2017 01:52:04 PM - ------- Start Call Webservice -------
+21/06/2017 01:52:04 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=IsClient&amp;MODE=Production&amp;REQUEST=0
+21/06/2017 01:52:04 PM - XML Infos
+21/06/2017 01:52:04 PM - 
+21/06/2017 01:52:05 PM - XML Infos Curl Response
+21/06/2017 01:52:05 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-21T19:52:05+02:00</Date><Call>IsClient</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Status>Client</Status><Price>0</Price></Response></Result>
+
+21/06/2017 01:52:05 PM - ------- End Call Webservice -------
+21/06/2017 01:52:05 PM - 
+21/06/2017 01:52:05 PM - 
+21/06/2017 01:52:05 PM - ------- Start Call Webservice -------
+21/06/2017 01:52:05 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetCarriers&amp;MODE=Production&amp;REQUEST=0
+21/06/2017 01:52:05 PM - XML Infos
+21/06/2017 01:52:05 PM - 
+21/06/2017 01:52:06 PM - XML Infos Curl Response
+21/06/2017 01:52:06 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-21T19:52:06+02:00</Date><Call>GetCarriers</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Carriers/></Response></Result>
+
+21/06/2017 01:52:06 PM - ------- End Call Webservice -------
+21/06/2017 01:52:06 PM - 
+21/06/2017 02:39:02 PM - 
+21/06/2017 02:39:02 PM - ------- Start Call Webservice -------
+21/06/2017 02:39:02 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+21/06/2017 02:39:02 PM - XML Infos
+21/06/2017 02:39:02 PM - 
+21/06/2017 02:39:03 PM - XML Infos Curl Response
+21/06/2017 02:39:03 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-21T20:39:02+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+21/06/2017 02:39:03 PM - ------- End Call Webservice -------
+21/06/2017 02:39:03 PM - 
+22/06/2017 02:15:53 PM - 
+22/06/2017 02:15:53 PM - ------- Start Call Webservice -------
+22/06/2017 02:15:53 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+22/06/2017 02:15:53 PM - XML Infos
+22/06/2017 02:15:53 PM - 
+22/06/2017 02:15:54 PM - XML Infos Curl Response
+22/06/2017 02:15:54 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-22T20:15:54+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+22/06/2017 02:15:54 PM - ------- End Call Webservice -------
+22/06/2017 02:15:54 PM - 
+22/06/2017 04:16:59 PM - 
+22/06/2017 04:16:59 PM - ------- Start Call Webservice -------
+22/06/2017 04:16:59 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+22/06/2017 04:16:59 PM - XML Infos
+22/06/2017 04:16:59 PM - 
+22/06/2017 04:17:00 PM - XML Infos Curl Response
+22/06/2017 04:17:00 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-22T22:17:00+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+22/06/2017 04:17:00 PM - ------- End Call Webservice -------
+22/06/2017 04:17:00 PM - 
+23/06/2017 08:38:26 AM - 
+23/06/2017 08:38:26 AM - ------- Start Call Webservice -------
+23/06/2017 08:38:26 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+23/06/2017 08:38:26 AM - XML Infos
+23/06/2017 08:38:26 AM - 
+23/06/2017 08:38:27 AM - XML Infos Curl Response
+23/06/2017 08:38:27 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-23T14:38:26+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+23/06/2017 08:38:27 AM - ------- End Call Webservice -------
+23/06/2017 08:38:27 AM - 
+23/06/2017 09:03:43 AM - 
+23/06/2017 09:03:43 AM - ------- Start Call Webservice -------
+23/06/2017 09:03:43 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+23/06/2017 09:03:43 AM - XML Infos
+23/06/2017 09:03:43 AM - 
+23/06/2017 09:03:43 AM - XML Infos Curl Response
+23/06/2017 09:03:43 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-23T15:03:43+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+23/06/2017 09:03:43 AM - ------- End Call Webservice -------
+23/06/2017 09:03:43 AM - 
+23/06/2017 11:59:25 AM - 
+23/06/2017 11:59:25 AM - ------- Start Call Webservice -------
+23/06/2017 11:59:25 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+23/06/2017 11:59:25 AM - XML Infos
+23/06/2017 11:59:25 AM - 
+23/06/2017 11:59:26 AM - XML Infos Curl Response
+23/06/2017 11:59:26 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-23T17:59:25+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+23/06/2017 11:59:26 AM - ------- End Call Webservice -------
+23/06/2017 11:59:26 AM - 
+23/06/2017 12:00:46 PM - 
+23/06/2017 12:00:46 PM - ------- Start Call Webservice -------
+23/06/2017 12:00:46 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+23/06/2017 12:00:46 PM - XML Infos
+23/06/2017 12:00:46 PM - 
+23/06/2017 12:00:47 PM - XML Infos Curl Response
+23/06/2017 12:00:47 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-23T18:00:47+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+23/06/2017 12:00:47 PM - ------- End Call Webservice -------
+23/06/2017 12:00:47 PM - 
+26/06/2017 08:34:47 AM - 
+26/06/2017 08:34:47 AM - ------- Start Call Webservice -------
+26/06/2017 08:34:47 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 08:34:47 AM - XML Infos
+26/06/2017 08:34:47 AM - 
+26/06/2017 08:34:47 AM - 
+26/06/2017 08:34:47 AM - ------- Start Call Webservice -------
+26/06/2017 08:34:47 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 08:34:47 AM - XML Infos
+26/06/2017 08:34:47 AM - 
+26/06/2017 08:34:47 AM - XML Infos Curl Response
+26/06/2017 08:34:47 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T14:34:47+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 08:34:47 AM - ------- End Call Webservice -------
+26/06/2017 08:34:47 AM - 
+26/06/2017 08:34:48 AM - XML Infos Curl Response
+26/06/2017 08:34:48 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T14:34:47+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 08:34:48 AM - ------- End Call Webservice -------
+26/06/2017 08:34:48 AM - 
+26/06/2017 08:34:49 AM - 
+26/06/2017 08:34:49 AM - ------- Start Call Webservice -------
+26/06/2017 08:34:49 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 08:34:49 AM - XML Infos
+26/06/2017 08:34:49 AM - 
+26/06/2017 08:34:49 AM - XML Infos Curl Response
+26/06/2017 08:34:49 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T14:34:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 08:34:49 AM - ------- End Call Webservice -------
+26/06/2017 08:34:49 AM - 
+26/06/2017 08:34:55 AM - 
+26/06/2017 08:34:55 AM - ------- Start Call Webservice -------
+26/06/2017 08:34:55 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 08:34:55 AM - XML Infos
+26/06/2017 08:34:55 AM - 
+26/06/2017 08:34:56 AM - XML Infos Curl Response
+26/06/2017 08:34:56 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T14:34:55+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 08:34:56 AM - ------- End Call Webservice -------
+26/06/2017 08:34:56 AM - 
+26/06/2017 08:35:01 AM - 
+26/06/2017 08:35:01 AM - ------- Start Call Webservice -------
+26/06/2017 08:35:01 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 08:35:01 AM - XML Infos
+26/06/2017 08:35:01 AM - 
+26/06/2017 08:35:01 AM - XML Infos Curl Response
+26/06/2017 08:35:01 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T14:35:01+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 08:35:01 AM - ------- End Call Webservice -------
+26/06/2017 08:35:01 AM - 
+26/06/2017 09:09:30 AM - 
+26/06/2017 09:09:30 AM - ------- Start Call Webservice -------
+26/06/2017 09:09:30 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 09:09:30 AM - XML Infos
+26/06/2017 09:09:30 AM - 
+26/06/2017 09:09:31 AM - XML Infos Curl Response
+26/06/2017 09:09:31 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T15:09:31+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 09:09:31 AM - ------- End Call Webservice -------
+26/06/2017 09:09:31 AM - 
+26/06/2017 10:07:28 AM - 
+26/06/2017 10:07:28 AM - ------- Start Call Webservice -------
+26/06/2017 10:07:28 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 10:07:28 AM - XML Infos
+26/06/2017 10:07:28 AM - 
+26/06/2017 10:07:29 AM - XML Infos Curl Response
+26/06/2017 10:07:29 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T16:07:29+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 10:07:29 AM - ------- End Call Webservice -------
+26/06/2017 10:07:29 AM - 
+26/06/2017 10:08:32 AM - 
+26/06/2017 10:08:32 AM - ------- Start Call Webservice -------
+26/06/2017 10:08:32 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 10:08:32 AM - XML Infos
+26/06/2017 10:08:32 AM - 
+26/06/2017 10:08:33 AM - XML Infos Curl Response
+26/06/2017 10:08:33 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T16:08:33+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 10:08:33 AM - ------- End Call Webservice -------
+26/06/2017 10:08:33 AM - 
+26/06/2017 10:09:45 AM - 
+26/06/2017 10:09:45 AM - ------- Start Call Webservice -------
+26/06/2017 10:09:45 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 10:09:45 AM - XML Infos
+26/06/2017 10:09:45 AM - 
+26/06/2017 10:09:46 AM - XML Infos Curl Response
+26/06/2017 10:09:46 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T16:09:45+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 10:09:46 AM - ------- End Call Webservice -------
+26/06/2017 10:09:46 AM - 
+26/06/2017 12:40:49 PM - 
+26/06/2017 12:40:49 PM - ------- Start Call Webservice -------
+26/06/2017 12:40:49 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 12:40:49 PM - XML Infos
+26/06/2017 12:40:49 PM - 
+26/06/2017 12:40:51 PM - XML Infos Curl Response
+26/06/2017 12:40:51 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T18:40:50+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 12:40:51 PM - ------- End Call Webservice -------
+26/06/2017 12:40:51 PM - 
+26/06/2017 01:30:03 PM - 
+26/06/2017 01:30:03 PM - ------- Start Call Webservice -------
+26/06/2017 01:30:03 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 01:30:03 PM - XML Infos
+26/06/2017 01:30:03 PM - 
+26/06/2017 01:30:04 PM - XML Infos Curl Response
+26/06/2017 01:30:04 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T19:30:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 01:30:04 PM - ------- End Call Webservice -------
+26/06/2017 01:30:04 PM - 
+26/06/2017 02:52:34 PM - 
+26/06/2017 02:52:34 PM - ------- Start Call Webservice -------
+26/06/2017 02:52:34 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 02:52:34 PM - XML Infos
+26/06/2017 02:52:34 PM - 
+26/06/2017 02:52:35 PM - XML Infos Curl Response
+26/06/2017 02:52:35 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T20:52:35+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 02:52:35 PM - ------- End Call Webservice -------
+26/06/2017 02:52:35 PM - 
+26/06/2017 03:48:17 PM - 
+26/06/2017 03:48:17 PM - ------- Start Call Webservice -------
+26/06/2017 03:48:17 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 03:48:17 PM - XML Infos
+26/06/2017 03:48:17 PM - 
+26/06/2017 03:48:18 PM - XML Infos Curl Response
+26/06/2017 03:48:18 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T21:48:17+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 03:48:18 PM - ------- End Call Webservice -------
+26/06/2017 03:48:18 PM - 
+26/06/2017 04:24:44 PM - 
+26/06/2017 04:24:44 PM - ------- Start Call Webservice -------
+26/06/2017 04:24:44 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 04:24:44 PM - XML Infos
+26/06/2017 04:24:44 PM - 
+26/06/2017 04:24:45 PM - XML Infos Curl Response
+26/06/2017 04:24:45 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T22:24:44+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 04:24:45 PM - ------- End Call Webservice -------
+26/06/2017 04:24:45 PM - 
+26/06/2017 04:26:23 PM - 
+26/06/2017 04:26:23 PM - ------- Start Call Webservice -------
+26/06/2017 04:26:23 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+26/06/2017 04:26:23 PM - XML Infos
+26/06/2017 04:26:23 PM - 
+26/06/2017 04:26:24 PM - XML Infos Curl Response
+26/06/2017 04:26:24 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-26T22:26:24+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+26/06/2017 04:26:24 PM - ------- End Call Webservice -------
+26/06/2017 04:26:24 PM - 
+27/06/2017 08:59:21 AM - 
+27/06/2017 08:59:21 AM - ------- Start Call Webservice -------
+27/06/2017 08:59:21 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 08:59:21 AM - XML Infos
+27/06/2017 08:59:21 AM - 
+27/06/2017 08:59:22 AM - XML Infos Curl Response
+27/06/2017 08:59:22 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T14:59:21+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 08:59:22 AM - ------- End Call Webservice -------
+27/06/2017 08:59:22 AM - 
+27/06/2017 09:04:34 AM - 
+27/06/2017 09:04:34 AM - ------- Start Call Webservice -------
+27/06/2017 09:04:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 09:04:34 AM - XML Infos
+27/06/2017 09:04:34 AM - 
+27/06/2017 09:04:35 AM - XML Infos Curl Response
+27/06/2017 09:04:35 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T15:04:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 09:04:35 AM - ------- End Call Webservice -------
+27/06/2017 09:04:35 AM - 
+27/06/2017 09:06:08 AM - 
+27/06/2017 09:06:08 AM - ------- Start Call Webservice -------
+27/06/2017 09:06:08 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 09:06:08 AM - XML Infos
+27/06/2017 09:06:08 AM - 
+27/06/2017 09:06:08 AM - XML Infos Curl Response
+27/06/2017 09:06:08 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T15:06:08+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 09:06:08 AM - ------- End Call Webservice -------
+27/06/2017 09:06:08 AM - 
+27/06/2017 09:18:34 AM - 
+27/06/2017 09:18:34 AM - ------- Start Call Webservice -------
+27/06/2017 09:18:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 09:18:34 AM - XML Infos
+27/06/2017 09:18:34 AM - 
+27/06/2017 09:18:34 AM - XML Infos Curl Response
+27/06/2017 09:18:34 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T15:18:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 09:18:34 AM - ------- End Call Webservice -------
+27/06/2017 09:18:34 AM - 
+27/06/2017 09:19:44 AM - 
+27/06/2017 09:19:44 AM - ------- Start Call Webservice -------
+27/06/2017 09:19:44 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 09:19:44 AM - XML Infos
+27/06/2017 09:19:44 AM - 
+27/06/2017 09:19:45 AM - XML Infos Curl Response
+27/06/2017 09:19:45 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T15:19:45+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 09:19:45 AM - ------- End Call Webservice -------
+27/06/2017 09:19:45 AM - 
+27/06/2017 11:48:38 AM - 
+27/06/2017 11:48:38 AM - ------- Start Call Webservice -------
+27/06/2017 11:48:38 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 11:48:38 AM - XML Infos
+27/06/2017 11:48:38 AM - 
+27/06/2017 11:48:39 AM - XML Infos Curl Response
+27/06/2017 11:48:39 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T17:48:39+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 11:48:39 AM - ------- End Call Webservice -------
+27/06/2017 11:48:39 AM - 
+27/06/2017 11:53:56 AM - 
+27/06/2017 11:53:56 AM - ------- Start Call Webservice -------
+27/06/2017 11:53:56 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 11:53:56 AM - XML Infos
+27/06/2017 11:53:56 AM - 
+27/06/2017 11:53:56 AM - XML Infos Curl Response
+27/06/2017 11:53:56 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T17:53:56+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 11:53:56 AM - ------- End Call Webservice -------
+27/06/2017 11:53:56 AM - 
+27/06/2017 03:42:19 PM - 
+27/06/2017 03:42:19 PM - ------- Start Call Webservice -------
+27/06/2017 03:42:19 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 03:42:19 PM - XML Infos
+27/06/2017 03:42:19 PM - 
+27/06/2017 03:42:20 PM - XML Infos Curl Response
+27/06/2017 03:42:20 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T21:42:20+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 03:42:20 PM - ------- End Call Webservice -------
+27/06/2017 03:42:20 PM - 
+27/06/2017 03:50:27 PM - 
+27/06/2017 03:50:27 PM - ------- Start Call Webservice -------
+27/06/2017 03:50:27 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+27/06/2017 03:50:27 PM - XML Infos
+27/06/2017 03:50:27 PM - 
+27/06/2017 03:50:28 PM - XML Infos Curl Response
+27/06/2017 03:50:28 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-27T21:50:27+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+27/06/2017 03:50:28 PM - ------- End Call Webservice -------
+27/06/2017 03:50:28 PM - 
+28/06/2017 08:58:34 AM - 
+28/06/2017 08:58:34 AM - ------- Start Call Webservice -------
+28/06/2017 08:58:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 08:58:34 AM - XML Infos
+28/06/2017 08:58:34 AM - 
+28/06/2017 08:58:35 AM - XML Infos Curl Response
+28/06/2017 08:58:35 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T14:58:35+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 08:58:35 AM - ------- End Call Webservice -------
+28/06/2017 08:58:35 AM - 
+28/06/2017 09:00:18 AM - 
+28/06/2017 09:00:18 AM - ------- Start Call Webservice -------
+28/06/2017 09:00:18 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 09:00:18 AM - XML Infos
+28/06/2017 09:00:18 AM - 
+28/06/2017 09:00:19 AM - XML Infos Curl Response
+28/06/2017 09:00:19 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T15:00:19+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 09:00:19 AM - ------- End Call Webservice -------
+28/06/2017 09:00:19 AM - 
+28/06/2017 09:01:31 AM - 
+28/06/2017 09:01:31 AM - ------- Start Call Webservice -------
+28/06/2017 09:01:31 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 09:01:31 AM - XML Infos
+28/06/2017 09:01:31 AM - 
+28/06/2017 09:01:32 AM - XML Infos Curl Response
+28/06/2017 09:01:32 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T15:01:31+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 09:01:32 AM - ------- End Call Webservice -------
+28/06/2017 09:01:32 AM - 
+28/06/2017 09:10:20 AM - 
+28/06/2017 09:10:20 AM - ------- Start Call Webservice -------
+28/06/2017 09:10:20 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 09:10:20 AM - XML Infos
+28/06/2017 09:10:20 AM - 
+28/06/2017 09:10:20 AM - XML Infos Curl Response
+28/06/2017 09:10:20 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T15:10:20+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 09:10:20 AM - ------- End Call Webservice -------
+28/06/2017 09:10:20 AM - 
+28/06/2017 09:27:02 AM - 
+28/06/2017 09:27:02 AM - ------- Start Call Webservice -------
+28/06/2017 09:27:02 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 09:27:02 AM - XML Infos
+28/06/2017 09:27:02 AM - 
+28/06/2017 09:27:03 AM - XML Infos Curl Response
+28/06/2017 09:27:03 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T15:27:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 09:27:03 AM - ------- End Call Webservice -------
+28/06/2017 09:27:03 AM - 
+28/06/2017 10:13:16 AM - 
+28/06/2017 10:13:16 AM - ------- Start Call Webservice -------
+28/06/2017 10:13:16 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 10:13:16 AM - XML Infos
+28/06/2017 10:13:16 AM - 
+28/06/2017 10:13:17 AM - XML Infos Curl Response
+28/06/2017 10:13:17 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T16:13:17+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 10:13:17 AM - ------- End Call Webservice -------
+28/06/2017 10:13:17 AM - 
+28/06/2017 11:35:39 AM - 
+28/06/2017 11:35:39 AM - ------- Start Call Webservice -------
+28/06/2017 11:35:39 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 11:35:39 AM - XML Infos
+28/06/2017 11:35:39 AM - 
+28/06/2017 11:35:40 AM - XML Infos Curl Response
+28/06/2017 11:35:40 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T17:35:40+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 11:35:40 AM - ------- End Call Webservice -------
+28/06/2017 11:35:40 AM - 
+28/06/2017 11:39:03 AM - 
+28/06/2017 11:39:03 AM - ------- Start Call Webservice -------
+28/06/2017 11:39:03 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 11:39:03 AM - XML Infos
+28/06/2017 11:39:03 AM - 
+28/06/2017 11:39:03 AM - XML Infos Curl Response
+28/06/2017 11:39:03 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T17:39:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 11:39:03 AM - ------- End Call Webservice -------
+28/06/2017 11:39:03 AM - 
+28/06/2017 11:43:27 AM - 
+28/06/2017 11:43:27 AM - ------- Start Call Webservice -------
+28/06/2017 11:43:27 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 11:43:27 AM - XML Infos
+28/06/2017 11:43:27 AM - 
+28/06/2017 11:43:27 AM - XML Infos Curl Response
+28/06/2017 11:43:27 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T17:43:27+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 11:43:27 AM - ------- End Call Webservice -------
+28/06/2017 11:43:27 AM - 
+28/06/2017 11:44:49 AM - 
+28/06/2017 11:44:49 AM - ------- Start Call Webservice -------
+28/06/2017 11:44:49 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 11:44:49 AM - XML Infos
+28/06/2017 11:44:49 AM - 
+28/06/2017 11:44:50 AM - XML Infos Curl Response
+28/06/2017 11:44:50 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T17:44:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 11:44:50 AM - ------- End Call Webservice -------
+28/06/2017 11:44:50 AM - 
+28/06/2017 04:59:00 PM - 
+28/06/2017 04:59:00 PM - ------- Start Call Webservice -------
+28/06/2017 04:59:00 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+28/06/2017 04:59:00 PM - XML Infos
+28/06/2017 04:59:00 PM - 
+28/06/2017 04:59:01 PM - XML Infos Curl Response
+28/06/2017 04:59:01 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-28T22:59:01+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+28/06/2017 04:59:01 PM - ------- End Call Webservice -------
+28/06/2017 04:59:01 PM - 
+29/06/2017 09:16:09 AM - 
+29/06/2017 09:16:09 AM - ------- Start Call Webservice -------
+29/06/2017 09:16:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:16:09 AM - XML Infos
+29/06/2017 09:16:09 AM - 
+29/06/2017 09:16:10 AM - XML Infos Curl Response
+29/06/2017 09:16:10 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:16:09+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:16:10 AM - ------- End Call Webservice -------
+29/06/2017 09:16:10 AM - 
+29/06/2017 09:29:39 AM - 
+29/06/2017 09:29:39 AM - ------- Start Call Webservice -------
+29/06/2017 09:29:39 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:29:39 AM - XML Infos
+29/06/2017 09:29:39 AM - 
+29/06/2017 09:29:40 AM - XML Infos Curl Response
+29/06/2017 09:29:40 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:29:39+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:29:40 AM - ------- End Call Webservice -------
+29/06/2017 09:29:40 AM - 
+29/06/2017 09:30:53 AM - 
+29/06/2017 09:30:53 AM - ------- Start Call Webservice -------
+29/06/2017 09:30:53 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:30:53 AM - XML Infos
+29/06/2017 09:30:53 AM - 
+29/06/2017 09:30:53 AM - XML Infos Curl Response
+29/06/2017 09:30:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:30:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:30:53 AM - ------- End Call Webservice -------
+29/06/2017 09:30:53 AM - 
+29/06/2017 09:32:06 AM - 
+29/06/2017 09:32:06 AM - ------- Start Call Webservice -------
+29/06/2017 09:32:06 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:32:06 AM - XML Infos
+29/06/2017 09:32:06 AM - 
+29/06/2017 09:32:06 AM - XML Infos Curl Response
+29/06/2017 09:32:06 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:32:06+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:32:06 AM - ------- End Call Webservice -------
+29/06/2017 09:32:06 AM - 
+29/06/2017 09:34:03 AM - 
+29/06/2017 09:34:03 AM - ------- Start Call Webservice -------
+29/06/2017 09:34:03 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:34:03 AM - XML Infos
+29/06/2017 09:34:03 AM - 
+29/06/2017 09:34:04 AM - XML Infos Curl Response
+29/06/2017 09:34:04 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:34:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:34:04 AM - ------- End Call Webservice -------
+29/06/2017 09:34:04 AM - 
+29/06/2017 09:39:02 AM - 
+29/06/2017 09:39:02 AM - ------- Start Call Webservice -------
+29/06/2017 09:39:02 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 09:39:02 AM - XML Infos
+29/06/2017 09:39:02 AM - 
+29/06/2017 09:39:02 AM - XML Infos Curl Response
+29/06/2017 09:39:02 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T15:39:02+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 09:39:02 AM - ------- End Call Webservice -------
+29/06/2017 09:39:02 AM - 
+29/06/2017 01:01:10 PM - 
+29/06/2017 01:01:10 PM - ------- Start Call Webservice -------
+29/06/2017 01:01:10 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 01:01:10 PM - XML Infos
+29/06/2017 01:01:10 PM - 
+29/06/2017 01:01:11 PM - XML Infos Curl Response
+29/06/2017 01:01:11 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T19:01:11+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 01:01:11 PM - ------- End Call Webservice -------
+29/06/2017 01:01:11 PM - 
+29/06/2017 01:02:28 PM - 
+29/06/2017 01:02:28 PM - ------- Start Call Webservice -------
+29/06/2017 01:02:28 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+29/06/2017 01:02:28 PM - XML Infos
+29/06/2017 01:02:28 PM - 
+29/06/2017 01:02:28 PM - XML Infos Curl Response
+29/06/2017 01:02:28 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-29T19:02:28+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+29/06/2017 01:02:28 PM - ------- End Call Webservice -------
+29/06/2017 01:02:28 PM - 
+30/06/2017 08:35:18 AM - 
+30/06/2017 08:35:18 AM - ------- Start Call Webservice -------
+30/06/2017 08:35:18 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 08:35:18 AM - XML Infos
+30/06/2017 08:35:18 AM - 
+30/06/2017 08:35:19 AM - XML Infos Curl Response
+30/06/2017 08:35:19 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T14:35:19+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 08:35:19 AM - ------- End Call Webservice -------
+30/06/2017 08:35:19 AM - 
+30/06/2017 08:41:48 AM - 
+30/06/2017 08:41:48 AM - ------- Start Call Webservice -------
+30/06/2017 08:41:48 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 08:41:48 AM - XML Infos
+30/06/2017 08:41:48 AM - 
+30/06/2017 08:41:49 AM - XML Infos Curl Response
+30/06/2017 08:41:49 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T14:41:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 08:41:49 AM - ------- End Call Webservice -------
+30/06/2017 08:41:49 AM - 
+30/06/2017 09:20:36 AM - 
+30/06/2017 09:20:36 AM - ------- Start Call Webservice -------
+30/06/2017 09:20:36 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 09:20:36 AM - XML Infos
+30/06/2017 09:20:36 AM - 
+30/06/2017 09:20:37 AM - XML Infos Curl Response
+30/06/2017 09:20:37 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T15:20:36+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 09:20:37 AM - ------- End Call Webservice -------
+30/06/2017 09:20:37 AM - 
+30/06/2017 10:11:34 AM - 
+30/06/2017 10:11:34 AM - ------- Start Call Webservice -------
+30/06/2017 10:11:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 10:11:34 AM - XML Infos
+30/06/2017 10:11:34 AM - 
+30/06/2017 10:11:34 AM - XML Infos Curl Response
+30/06/2017 10:11:34 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T16:11:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 10:11:34 AM - ------- End Call Webservice -------
+30/06/2017 10:11:34 AM - 
+30/06/2017 02:08:25 PM - 
+30/06/2017 02:08:25 PM - ------- Start Call Webservice -------
+30/06/2017 02:08:25 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 02:08:25 PM - XML Infos
+30/06/2017 02:08:25 PM - 
+30/06/2017 02:08:26 PM - XML Infos Curl Response
+30/06/2017 02:08:26 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T20:08:26+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 02:08:26 PM - ------- End Call Webservice -------
+30/06/2017 02:08:26 PM - 
+30/06/2017 02:09:29 PM - 
+30/06/2017 02:09:29 PM - ------- Start Call Webservice -------
+30/06/2017 02:09:29 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 02:09:29 PM - XML Infos
+30/06/2017 02:09:29 PM - 
+30/06/2017 02:09:30 PM - XML Infos Curl Response
+30/06/2017 02:09:30 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T20:09:30+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 02:09:30 PM - ------- End Call Webservice -------
+30/06/2017 02:09:30 PM - 
+30/06/2017 02:54:55 PM - 
+30/06/2017 02:54:55 PM - ------- Start Call Webservice -------
+30/06/2017 02:54:55 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 02:54:55 PM - XML Infos
+30/06/2017 02:54:55 PM - 
+30/06/2017 02:54:56 PM - XML Infos Curl Response
+30/06/2017 02:54:56 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T20:54:55+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 02:54:56 PM - ------- End Call Webservice -------
+30/06/2017 02:54:56 PM - 
+30/06/2017 04:50:55 PM - 
+30/06/2017 04:50:55 PM - ------- Start Call Webservice -------
+30/06/2017 04:50:55 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+30/06/2017 04:50:55 PM - XML Infos
+30/06/2017 04:50:55 PM - 
+30/06/2017 04:50:56 PM - XML Infos Curl Response
+30/06/2017 04:50:56 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-06-30T22:50:56+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+30/06/2017 04:50:56 PM - ------- End Call Webservice -------
+30/06/2017 04:50:56 PM - 
+05/07/2017 08:51:34 AM - 
+05/07/2017 08:51:34 AM - ------- Start Call Webservice -------
+05/07/2017 08:51:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 08:51:34 AM - XML Infos
+05/07/2017 08:51:34 AM - 
+05/07/2017 08:51:34 AM - XML Infos Curl Response
+05/07/2017 08:51:34 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T14:51:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 08:51:34 AM - ------- End Call Webservice -------
+05/07/2017 08:51:34 AM - 
+05/07/2017 09:21:21 AM - 
+05/07/2017 09:21:21 AM - ------- Start Call Webservice -------
+05/07/2017 09:21:21 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 09:21:21 AM - XML Infos
+05/07/2017 09:21:21 AM - 
+05/07/2017 09:21:21 AM - XML Infos Curl Response
+05/07/2017 09:21:21 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T15:21:21+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 09:21:21 AM - ------- End Call Webservice -------
+05/07/2017 09:21:21 AM - 
+05/07/2017 09:47:52 AM - 
+05/07/2017 09:47:52 AM - ------- Start Call Webservice -------
+05/07/2017 09:47:52 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 09:47:52 AM - XML Infos
+05/07/2017 09:47:52 AM - 
+05/07/2017 09:47:53 AM - XML Infos Curl Response
+05/07/2017 09:47:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T15:47:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 09:47:53 AM - ------- End Call Webservice -------
+05/07/2017 09:47:53 AM - 
+05/07/2017 09:49:41 AM - 
+05/07/2017 09:49:41 AM - ------- Start Call Webservice -------
+05/07/2017 09:49:41 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 09:49:41 AM - XML Infos
+05/07/2017 09:49:41 AM - 
+05/07/2017 09:49:42 AM - XML Infos Curl Response
+05/07/2017 09:49:42 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T15:49:42+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 09:49:42 AM - ------- End Call Webservice -------
+05/07/2017 09:49:42 AM - 
+05/07/2017 09:52:25 AM - 
+05/07/2017 09:52:25 AM - ------- Start Call Webservice -------
+05/07/2017 09:52:25 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 09:52:25 AM - XML Infos
+05/07/2017 09:52:25 AM - 
+05/07/2017 09:52:26 AM - XML Infos Curl Response
+05/07/2017 09:52:26 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T15:52:25+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 09:52:26 AM - ------- End Call Webservice -------
+05/07/2017 09:52:26 AM - 
+05/07/2017 09:54:13 AM - 
+05/07/2017 09:54:13 AM - ------- Start Call Webservice -------
+05/07/2017 09:54:13 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 09:54:13 AM - XML Infos
+05/07/2017 09:54:13 AM - 
+05/07/2017 09:54:14 AM - XML Infos Curl Response
+05/07/2017 09:54:14 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T15:54:13+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 09:54:14 AM - ------- End Call Webservice -------
+05/07/2017 09:54:14 AM - 
+05/07/2017 10:04:47 AM - 
+05/07/2017 10:04:47 AM - ------- Start Call Webservice -------
+05/07/2017 10:04:47 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 10:04:47 AM - XML Infos
+05/07/2017 10:04:47 AM - 
+05/07/2017 10:04:48 AM - XML Infos Curl Response
+05/07/2017 10:04:48 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T16:04:48+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 10:04:48 AM - ------- End Call Webservice -------
+05/07/2017 10:04:48 AM - 
+05/07/2017 12:04:54 PM - 
+05/07/2017 12:04:54 PM - ------- Start Call Webservice -------
+05/07/2017 12:04:54 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 12:04:54 PM - XML Infos
+05/07/2017 12:04:54 PM - 
+05/07/2017 12:04:55 PM - XML Infos Curl Response
+05/07/2017 12:04:55 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T18:04:55+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 12:04:55 PM - ------- End Call Webservice -------
+05/07/2017 12:04:55 PM - 
+05/07/2017 12:07:48 PM - 
+05/07/2017 12:07:48 PM - ------- Start Call Webservice -------
+05/07/2017 12:07:48 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 12:07:48 PM - XML Infos
+05/07/2017 12:07:48 PM - 
+05/07/2017 12:07:49 PM - XML Infos Curl Response
+05/07/2017 12:07:49 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T18:07:48+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 12:07:49 PM - ------- End Call Webservice -------
+05/07/2017 12:07:49 PM - 
+05/07/2017 12:34:19 PM - 
+05/07/2017 12:34:19 PM - ------- Start Call Webservice -------
+05/07/2017 12:34:19 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 12:34:19 PM - XML Infos
+05/07/2017 12:34:19 PM - 
+05/07/2017 12:34:20 PM - XML Infos Curl Response
+05/07/2017 12:34:20 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T18:34:19+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 12:34:20 PM - ------- End Call Webservice -------
+05/07/2017 12:34:20 PM - 
+05/07/2017 12:59:27 PM - 
+05/07/2017 12:59:27 PM - ------- Start Call Webservice -------
+05/07/2017 12:59:27 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 12:59:27 PM - XML Infos
+05/07/2017 12:59:27 PM - 
+05/07/2017 12:59:28 PM - XML Infos Curl Response
+05/07/2017 12:59:28 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T18:59:28+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 12:59:28 PM - ------- End Call Webservice -------
+05/07/2017 12:59:28 PM - 
+05/07/2017 01:06:26 PM - 
+05/07/2017 01:06:26 PM - ------- Start Call Webservice -------
+05/07/2017 01:06:26 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 01:06:26 PM - XML Infos
+05/07/2017 01:06:26 PM - 
+05/07/2017 01:06:27 PM - XML Infos Curl Response
+05/07/2017 01:06:27 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T19:06:27+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 01:06:27 PM - ------- End Call Webservice -------
+05/07/2017 01:06:27 PM - 
+05/07/2017 01:07:31 PM - 
+05/07/2017 01:07:31 PM - ------- Start Call Webservice -------
+05/07/2017 01:07:31 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 01:07:31 PM - XML Infos
+05/07/2017 01:07:31 PM - 
+05/07/2017 01:07:31 PM - XML Infos Curl Response
+05/07/2017 01:07:31 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T19:07:31+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 01:07:31 PM - ------- End Call Webservice -------
+05/07/2017 01:07:31 PM - 
+05/07/2017 03:24:33 PM - 
+05/07/2017 03:24:33 PM - ------- Start Call Webservice -------
+05/07/2017 03:24:33 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 03:24:33 PM - XML Infos
+05/07/2017 03:24:33 PM - 
+05/07/2017 03:24:34 PM - XML Infos Curl Response
+05/07/2017 03:24:34 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T21:24:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 03:24:34 PM - ------- End Call Webservice -------
+05/07/2017 03:24:34 PM - 
+05/07/2017 04:56:01 PM - 
+05/07/2017 04:56:01 PM - ------- Start Call Webservice -------
+05/07/2017 04:56:01 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 04:56:01 PM - XML Infos
+05/07/2017 04:56:01 PM - 
+05/07/2017 04:56:02 PM - XML Infos Curl Response
+05/07/2017 04:56:02 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T22:56:02+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 04:56:02 PM - ------- End Call Webservice -------
+05/07/2017 04:56:02 PM - 
+05/07/2017 04:57:11 PM - 
+05/07/2017 04:57:11 PM - ------- Start Call Webservice -------
+05/07/2017 04:57:11 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+05/07/2017 04:57:11 PM - XML Infos
+05/07/2017 04:57:11 PM - 
+05/07/2017 04:57:12 PM - XML Infos Curl Response
+05/07/2017 04:57:12 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-05T22:57:12+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+05/07/2017 04:57:12 PM - ------- End Call Webservice -------
+05/07/2017 04:57:12 PM - 
+06/07/2017 08:49:00 AM - 
+06/07/2017 08:49:00 AM - ------- Start Call Webservice -------
+06/07/2017 08:49:00 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 08:49:00 AM - XML Infos
+06/07/2017 08:49:00 AM - 
+06/07/2017 08:49:01 AM - XML Infos Curl Response
+06/07/2017 08:49:01 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T14:49:01+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 08:49:01 AM - ------- End Call Webservice -------
+06/07/2017 08:49:01 AM - 
+06/07/2017 08:53:52 AM - 
+06/07/2017 08:53:52 AM - ------- Start Call Webservice -------
+06/07/2017 08:53:52 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 08:53:52 AM - XML Infos
+06/07/2017 08:53:52 AM - 
+06/07/2017 08:53:53 AM - XML Infos Curl Response
+06/07/2017 08:53:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T14:53:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 08:53:53 AM - ------- End Call Webservice -------
+06/07/2017 08:53:53 AM - 
+06/07/2017 09:01:09 AM - 
+06/07/2017 09:01:09 AM - ------- Start Call Webservice -------
+06/07/2017 09:01:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 09:01:09 AM - XML Infos
+06/07/2017 09:01:09 AM - 
+06/07/2017 09:01:10 AM - XML Infos Curl Response
+06/07/2017 09:01:10 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T15:01:10+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 09:01:10 AM - ------- End Call Webservice -------
+06/07/2017 09:01:10 AM - 
+06/07/2017 09:27:27 AM - 
+06/07/2017 09:27:27 AM - ------- Start Call Webservice -------
+06/07/2017 09:27:27 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 09:27:27 AM - XML Infos
+06/07/2017 09:27:27 AM - 
+06/07/2017 09:27:28 AM - XML Infos Curl Response
+06/07/2017 09:27:28 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T15:27:28+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 09:27:28 AM - ------- End Call Webservice -------
+06/07/2017 09:27:28 AM - 
+06/07/2017 09:52:07 AM - 
+06/07/2017 09:52:07 AM - ------- Start Call Webservice -------
+06/07/2017 09:52:07 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 09:52:07 AM - XML Infos
+06/07/2017 09:52:07 AM - 
+06/07/2017 09:52:07 AM - XML Infos Curl Response
+06/07/2017 09:52:07 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T15:52:07+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 09:52:07 AM - ------- End Call Webservice -------
+06/07/2017 09:52:07 AM - 
+06/07/2017 09:53:25 AM - 
+06/07/2017 09:53:25 AM - ------- Start Call Webservice -------
+06/07/2017 09:53:25 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 09:53:25 AM - XML Infos
+06/07/2017 09:53:25 AM - 
+06/07/2017 09:53:26 AM - XML Infos Curl Response
+06/07/2017 09:53:26 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T15:53:26+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 09:53:26 AM - ------- End Call Webservice -------
+06/07/2017 09:53:26 AM - 
+06/07/2017 09:55:21 AM - 
+06/07/2017 09:55:21 AM - ------- Start Call Webservice -------
+06/07/2017 09:55:21 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 09:55:21 AM - XML Infos
+06/07/2017 09:55:21 AM - 
+06/07/2017 09:55:22 AM - XML Infos Curl Response
+06/07/2017 09:55:22 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T15:55:22+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 09:55:22 AM - ------- End Call Webservice -------
+06/07/2017 09:55:22 AM - 
+06/07/2017 10:08:09 AM - 
+06/07/2017 10:08:09 AM - ------- Start Call Webservice -------
+06/07/2017 10:08:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 10:08:09 AM - XML Infos
+06/07/2017 10:08:09 AM - 
+06/07/2017 10:08:10 AM - XML Infos Curl Response
+06/07/2017 10:08:10 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T16:08:10+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 10:08:10 AM - ------- End Call Webservice -------
+06/07/2017 10:08:10 AM - 
+06/07/2017 10:46:18 AM - 
+06/07/2017 10:46:18 AM - ------- Start Call Webservice -------
+06/07/2017 10:46:18 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 10:46:18 AM - XML Infos
+06/07/2017 10:46:18 AM - 
+06/07/2017 10:46:19 AM - XML Infos Curl Response
+06/07/2017 10:46:19 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T16:46:18+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 10:46:19 AM - ------- End Call Webservice -------
+06/07/2017 10:46:19 AM - 
+06/07/2017 02:55:05 PM - 
+06/07/2017 02:55:05 PM - ------- Start Call Webservice -------
+06/07/2017 02:55:05 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 02:55:05 PM - XML Infos
+06/07/2017 02:55:05 PM - 
+06/07/2017 02:55:05 PM - XML Infos Curl Response
+06/07/2017 02:55:05 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T20:55:05+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 02:55:05 PM - ------- End Call Webservice -------
+06/07/2017 02:55:05 PM - 
+06/07/2017 03:09:07 PM - 
+06/07/2017 03:09:07 PM - ------- Start Call Webservice -------
+06/07/2017 03:09:07 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+06/07/2017 03:09:07 PM - XML Infos
+06/07/2017 03:09:07 PM - 
+06/07/2017 03:09:08 PM - XML Infos Curl Response
+06/07/2017 03:09:08 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-06T21:09:07+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+06/07/2017 03:09:08 PM - ------- End Call Webservice -------
+06/07/2017 03:09:08 PM - 
+07/07/2017 08:54:39 AM - 
+07/07/2017 08:54:39 AM - ------- Start Call Webservice -------
+07/07/2017 08:54:39 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 08:54:39 AM - XML Infos
+07/07/2017 08:54:39 AM - 
+07/07/2017 08:54:40 AM - XML Infos Curl Response
+07/07/2017 08:54:40 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T14:54:40+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 08:54:40 AM - ------- End Call Webservice -------
+07/07/2017 08:54:40 AM - 
+07/07/2017 09:32:53 AM - 
+07/07/2017 09:32:53 AM - ------- Start Call Webservice -------
+07/07/2017 09:32:53 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 09:32:53 AM - XML Infos
+07/07/2017 09:32:53 AM - 
+07/07/2017 09:32:54 AM - XML Infos Curl Response
+07/07/2017 09:32:54 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T15:32:54+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 09:32:54 AM - ------- End Call Webservice -------
+07/07/2017 09:32:54 AM - 
+07/07/2017 10:36:10 AM - 
+07/07/2017 10:36:10 AM - ------- Start Call Webservice -------
+07/07/2017 10:36:10 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 10:36:10 AM - XML Infos
+07/07/2017 10:36:10 AM - 
+07/07/2017 10:36:11 AM - XML Infos Curl Response
+07/07/2017 10:36:11 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T16:36:10+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 10:36:11 AM - ------- End Call Webservice -------
+07/07/2017 10:36:11 AM - 
+07/07/2017 10:38:13 AM - 
+07/07/2017 10:38:13 AM - ------- Start Call Webservice -------
+07/07/2017 10:38:13 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 10:38:13 AM - XML Infos
+07/07/2017 10:38:13 AM - 
+07/07/2017 10:38:14 AM - XML Infos Curl Response
+07/07/2017 10:38:14 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T16:38:14+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 10:38:14 AM - ------- End Call Webservice -------
+07/07/2017 10:38:14 AM - 
+07/07/2017 10:39:14 AM - 
+07/07/2017 10:39:14 AM - ------- Start Call Webservice -------
+07/07/2017 10:39:14 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 10:39:14 AM - XML Infos
+07/07/2017 10:39:14 AM - 
+07/07/2017 10:39:14 AM - XML Infos Curl Response
+07/07/2017 10:39:14 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T16:39:14+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 10:39:14 AM - ------- End Call Webservice -------
+07/07/2017 10:39:14 AM - 
+07/07/2017 11:02:34 AM - 
+07/07/2017 11:02:34 AM - ------- Start Call Webservice -------
+07/07/2017 11:02:34 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 11:02:34 AM - XML Infos
+07/07/2017 11:02:34 AM - 
+07/07/2017 11:02:35 AM - XML Infos Curl Response
+07/07/2017 11:02:35 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T17:02:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 11:02:35 AM - ------- End Call Webservice -------
+07/07/2017 11:02:35 AM - 
+07/07/2017 11:04:03 AM - 
+07/07/2017 11:04:03 AM - ------- Start Call Webservice -------
+07/07/2017 11:04:03 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 11:04:03 AM - XML Infos
+07/07/2017 11:04:03 AM - 
+07/07/2017 11:04:03 AM - XML Infos Curl Response
+07/07/2017 11:04:03 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T17:04:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 11:04:03 AM - ------- End Call Webservice -------
+07/07/2017 11:04:03 AM - 
+07/07/2017 11:08:46 AM - 
+07/07/2017 11:08:46 AM - ------- Start Call Webservice -------
+07/07/2017 11:08:46 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 11:08:46 AM - XML Infos
+07/07/2017 11:08:46 AM - 
+07/07/2017 11:08:47 AM - XML Infos Curl Response
+07/07/2017 11:08:47 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T17:08:46+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 11:08:47 AM - ------- End Call Webservice -------
+07/07/2017 11:08:47 AM - 
+07/07/2017 12:15:16 PM - 
+07/07/2017 12:15:16 PM - ------- Start Call Webservice -------
+07/07/2017 12:15:16 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 12:15:16 PM - XML Infos
+07/07/2017 12:15:16 PM - 
+07/07/2017 12:15:17 PM - XML Infos Curl Response
+07/07/2017 12:15:17 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T18:15:16+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 12:15:17 PM - ------- End Call Webservice -------
+07/07/2017 12:15:17 PM - 
+07/07/2017 12:21:50 PM - 
+07/07/2017 12:21:50 PM - ------- Start Call Webservice -------
+07/07/2017 12:21:50 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 12:21:50 PM - XML Infos
+07/07/2017 12:21:50 PM - 
+07/07/2017 12:21:50 PM - XML Infos Curl Response
+07/07/2017 12:21:50 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T18:21:50+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 12:21:50 PM - ------- End Call Webservice -------
+07/07/2017 12:21:50 PM - 
+07/07/2017 12:22:53 PM - 
+07/07/2017 12:22:53 PM - ------- Start Call Webservice -------
+07/07/2017 12:22:53 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 12:22:53 PM - XML Infos
+07/07/2017 12:22:53 PM - 
+07/07/2017 12:22:54 PM - XML Infos Curl Response
+07/07/2017 12:22:54 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T18:22:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 12:22:54 PM - ------- End Call Webservice -------
+07/07/2017 12:22:54 PM - 
+07/07/2017 04:05:13 PM - 
+07/07/2017 04:05:13 PM - ------- Start Call Webservice -------
+07/07/2017 04:05:13 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+07/07/2017 04:05:13 PM - XML Infos
+07/07/2017 04:05:13 PM - 
+07/07/2017 04:05:14 PM - XML Infos Curl Response
+07/07/2017 04:05:14 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-07T22:05:13+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+07/07/2017 04:05:14 PM - ------- End Call Webservice -------
+07/07/2017 04:05:14 PM - 
+10/07/2017 08:33:42 AM - 
+10/07/2017 08:33:43 AM - ------- Start Call Webservice -------
+10/07/2017 08:33:43 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 08:33:43 AM - XML Infos
+10/07/2017 08:33:43 AM - 
+10/07/2017 08:33:43 AM - XML Infos Curl Response
+10/07/2017 08:33:43 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T14:33:43+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 08:33:43 AM - ------- End Call Webservice -------
+10/07/2017 08:33:43 AM - 
+10/07/2017 08:58:57 AM - 
+10/07/2017 08:58:57 AM - ------- Start Call Webservice -------
+10/07/2017 08:58:57 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 08:58:57 AM - XML Infos
+10/07/2017 08:58:57 AM - 
+10/07/2017 08:58:58 AM - XML Infos Curl Response
+10/07/2017 08:58:58 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T14:58:57+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 08:58:58 AM - ------- End Call Webservice -------
+10/07/2017 08:58:58 AM - 
+10/07/2017 09:00:37 AM - 
+10/07/2017 09:00:37 AM - ------- Start Call Webservice -------
+10/07/2017 09:00:37 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 09:00:37 AM - XML Infos
+10/07/2017 09:00:37 AM - 
+10/07/2017 09:00:37 AM - XML Infos Curl Response
+10/07/2017 09:00:37 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T15:00:37+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 09:00:37 AM - ------- End Call Webservice -------
+10/07/2017 09:00:37 AM - 
+10/07/2017 09:01:48 AM - 
+10/07/2017 09:01:48 AM - ------- Start Call Webservice -------
+10/07/2017 09:01:48 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 09:01:48 AM - XML Infos
+10/07/2017 09:01:48 AM - 
+10/07/2017 09:01:48 AM - XML Infos Curl Response
+10/07/2017 09:01:48 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T15:01:48+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 09:01:48 AM - ------- End Call Webservice -------
+10/07/2017 09:01:48 AM - 
+10/07/2017 09:02:55 AM - 
+10/07/2017 09:02:55 AM - ------- Start Call Webservice -------
+10/07/2017 09:02:55 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 09:02:55 AM - XML Infos
+10/07/2017 09:02:55 AM - 
+10/07/2017 09:02:56 AM - XML Infos Curl Response
+10/07/2017 09:02:56 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T15:02:56+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 09:02:56 AM - ------- End Call Webservice -------
+10/07/2017 09:02:56 AM - 
+10/07/2017 09:18:09 AM - 
+10/07/2017 09:18:09 AM - ------- Start Call Webservice -------
+10/07/2017 09:18:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 09:18:09 AM - XML Infos
+10/07/2017 09:18:09 AM - 
+10/07/2017 09:18:10 AM - XML Infos Curl Response
+10/07/2017 09:18:10 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T15:18:09+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 09:18:10 AM - ------- End Call Webservice -------
+10/07/2017 09:18:10 AM - 
+10/07/2017 09:52:16 AM - 
+10/07/2017 09:52:16 AM - ------- Start Call Webservice -------
+10/07/2017 09:52:16 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 09:52:16 AM - XML Infos
+10/07/2017 09:52:16 AM - 
+10/07/2017 09:52:17 AM - XML Infos Curl Response
+10/07/2017 09:52:17 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T15:52:17+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 09:52:17 AM - ------- End Call Webservice -------
+10/07/2017 09:52:17 AM - 
+10/07/2017 10:36:38 AM - 
+10/07/2017 10:36:38 AM - ------- Start Call Webservice -------
+10/07/2017 10:36:38 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 10:36:38 AM - XML Infos
+10/07/2017 10:36:38 AM - 
+10/07/2017 10:36:39 AM - XML Infos Curl Response
+10/07/2017 10:36:39 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T16:36:39+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 10:36:39 AM - ------- End Call Webservice -------
+10/07/2017 10:36:39 AM - 
+10/07/2017 10:54:53 AM - 
+10/07/2017 10:54:53 AM - ------- Start Call Webservice -------
+10/07/2017 10:54:53 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 10:54:53 AM - XML Infos
+10/07/2017 10:54:53 AM - 
+10/07/2017 10:54:53 AM - XML Infos Curl Response
+10/07/2017 10:54:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T16:54:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 10:54:53 AM - ------- End Call Webservice -------
+10/07/2017 10:54:53 AM - 
+10/07/2017 11:13:33 AM - 
+10/07/2017 11:13:33 AM - ------- Start Call Webservice -------
+10/07/2017 11:13:33 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 11:13:33 AM - XML Infos
+10/07/2017 11:13:33 AM - 
+10/07/2017 11:13:34 AM - XML Infos Curl Response
+10/07/2017 11:13:34 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T17:13:33+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 11:13:34 AM - ------- End Call Webservice -------
+10/07/2017 11:13:34 AM - 
+10/07/2017 11:15:49 AM - 
+10/07/2017 11:15:49 AM - ------- Start Call Webservice -------
+10/07/2017 11:15:49 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 11:15:49 AM - XML Infos
+10/07/2017 11:15:49 AM - 
+10/07/2017 11:15:50 AM - XML Infos Curl Response
+10/07/2017 11:15:50 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T17:15:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 11:15:50 AM - ------- End Call Webservice -------
+10/07/2017 11:15:50 AM - 
+10/07/2017 11:26:35 AM - 
+10/07/2017 11:26:35 AM - ------- Start Call Webservice -------
+10/07/2017 11:26:35 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 11:26:35 AM - XML Infos
+10/07/2017 11:26:35 AM - 
+10/07/2017 11:26:35 AM - XML Infos Curl Response
+10/07/2017 11:26:35 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T17:26:35+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 11:26:35 AM - ------- End Call Webservice -------
+10/07/2017 11:26:35 AM - 
+10/07/2017 12:58:03 PM - 
+10/07/2017 12:58:03 PM - ------- Start Call Webservice -------
+10/07/2017 12:58:03 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 12:58:03 PM - XML Infos
+10/07/2017 12:58:03 PM - 
+10/07/2017 12:58:04 PM - XML Infos Curl Response
+10/07/2017 12:58:04 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T18:58:04+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 12:58:04 PM - ------- End Call Webservice -------
+10/07/2017 12:58:04 PM - 
+10/07/2017 01:18:52 PM - 
+10/07/2017 01:18:52 PM - ------- Start Call Webservice -------
+10/07/2017 01:18:52 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 01:18:52 PM - XML Infos
+10/07/2017 01:18:52 PM - 
+10/07/2017 01:18:53 PM - XML Infos Curl Response
+10/07/2017 01:18:53 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T19:18:52+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 01:18:53 PM - ------- End Call Webservice -------
+10/07/2017 01:18:53 PM - 
+10/07/2017 02:19:34 PM - 
+10/07/2017 02:19:34 PM - ------- Start Call Webservice -------
+10/07/2017 02:19:34 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 02:19:34 PM - XML Infos
+10/07/2017 02:19:34 PM - 
+10/07/2017 02:19:35 PM - XML Infos Curl Response
+10/07/2017 02:19:35 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T20:19:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 02:19:35 PM - ------- End Call Webservice -------
+10/07/2017 02:19:35 PM - 
+10/07/2017 03:31:24 PM - 
+10/07/2017 03:31:24 PM - ------- Start Call Webservice -------
+10/07/2017 03:31:24 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 03:31:24 PM - XML Infos
+10/07/2017 03:31:24 PM - 
+10/07/2017 03:31:25 PM - XML Infos Curl Response
+10/07/2017 03:31:25 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T21:31:24+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 03:31:25 PM - ------- End Call Webservice -------
+10/07/2017 03:31:25 PM - 
+10/07/2017 03:36:29 PM - 
+10/07/2017 03:36:29 PM - ------- Start Call Webservice -------
+10/07/2017 03:36:29 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 03:36:29 PM - XML Infos
+10/07/2017 03:36:29 PM - 
+10/07/2017 03:36:29 PM - XML Infos Curl Response
+10/07/2017 03:36:29 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T21:36:29+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 03:36:29 PM - ------- End Call Webservice -------
+10/07/2017 03:36:29 PM - 
+10/07/2017 04:20:23 PM - 
+10/07/2017 04:20:23 PM - ------- Start Call Webservice -------
+10/07/2017 04:20:23 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 04:20:23 PM - XML Infos
+10/07/2017 04:20:23 PM - 
+10/07/2017 04:20:25 PM - XML Infos Curl Response
+10/07/2017 04:20:25 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T22:20:24+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 04:20:25 PM - ------- End Call Webservice -------
+10/07/2017 04:20:25 PM - 
+10/07/2017 04:40:46 PM - 
+10/07/2017 04:40:46 PM - ------- Start Call Webservice -------
+10/07/2017 04:40:46 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+10/07/2017 04:40:46 PM - XML Infos
+10/07/2017 04:40:46 PM - 
+10/07/2017 04:40:47 PM - XML Infos Curl Response
+10/07/2017 04:40:47 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-10T22:40:46+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+10/07/2017 04:40:47 PM - ------- End Call Webservice -------
+10/07/2017 04:40:47 PM - 
+11/07/2017 08:45:15 AM - 
+11/07/2017 08:45:15 AM - ------- Start Call Webservice -------
+11/07/2017 08:45:15 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 08:45:15 AM - XML Infos
+11/07/2017 08:45:15 AM - 
+11/07/2017 08:45:17 AM - XML Infos Curl Response
+11/07/2017 08:45:17 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T14:45:16+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 08:45:17 AM - ------- End Call Webservice -------
+11/07/2017 08:45:17 AM - 
+11/07/2017 10:30:55 AM - 
+11/07/2017 10:30:55 AM - ------- Start Call Webservice -------
+11/07/2017 10:30:55 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 10:30:55 AM - XML Infos
+11/07/2017 10:30:55 AM - 
+11/07/2017 10:30:56 AM - XML Infos Curl Response
+11/07/2017 10:30:56 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T16:30:55+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 10:30:56 AM - ------- End Call Webservice -------
+11/07/2017 10:30:56 AM - 
+11/07/2017 10:32:31 AM - 
+11/07/2017 10:32:31 AM - ------- Start Call Webservice -------
+11/07/2017 10:32:31 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 10:32:31 AM - XML Infos
+11/07/2017 10:32:31 AM - 
+11/07/2017 10:32:32 AM - XML Infos Curl Response
+11/07/2017 10:32:32 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T16:32:31+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 10:32:32 AM - ------- End Call Webservice -------
+11/07/2017 10:32:32 AM - 
+11/07/2017 10:34:50 AM - 
+11/07/2017 10:34:50 AM - ------- Start Call Webservice -------
+11/07/2017 10:34:50 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 10:34:50 AM - XML Infos
+11/07/2017 10:34:50 AM - 
+11/07/2017 10:34:51 AM - XML Infos Curl Response
+11/07/2017 10:34:51 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T16:34:51+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 10:34:51 AM - ------- End Call Webservice -------
+11/07/2017 10:34:51 AM - 
+11/07/2017 10:37:09 AM - 
+11/07/2017 10:37:09 AM - ------- Start Call Webservice -------
+11/07/2017 10:37:09 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 10:37:09 AM - XML Infos
+11/07/2017 10:37:09 AM - 
+11/07/2017 10:37:10 AM - XML Infos Curl Response
+11/07/2017 10:37:10 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T16:37:10+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 10:37:10 AM - ------- End Call Webservice -------
+11/07/2017 10:37:10 AM - 
+11/07/2017 10:38:46 AM - 
+11/07/2017 10:38:46 AM - ------- Start Call Webservice -------
+11/07/2017 10:38:46 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 10:38:46 AM - XML Infos
+11/07/2017 10:38:46 AM - 
+11/07/2017 10:38:47 AM - XML Infos Curl Response
+11/07/2017 10:38:47 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T16:38:47+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 10:38:47 AM - ------- End Call Webservice -------
+11/07/2017 10:38:47 AM - 
+11/07/2017 11:03:36 AM - 
+11/07/2017 11:03:36 AM - ------- Start Call Webservice -------
+11/07/2017 11:03:36 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 11:03:36 AM - XML Infos
+11/07/2017 11:03:36 AM - 
+11/07/2017 11:03:37 AM - XML Infos Curl Response
+11/07/2017 11:03:37 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T17:03:37+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 11:03:37 AM - ------- End Call Webservice -------
+11/07/2017 11:03:37 AM - 
+11/07/2017 11:08:37 AM - 
+11/07/2017 11:08:37 AM - ------- Start Call Webservice -------
+11/07/2017 11:08:37 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 11:08:37 AM - XML Infos
+11/07/2017 11:08:37 AM - 
+11/07/2017 11:08:38 AM - XML Infos Curl Response
+11/07/2017 11:08:38 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T17:08:37+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 11:08:38 AM - ------- End Call Webservice -------
+11/07/2017 11:08:38 AM - 
+11/07/2017 11:12:55 AM - 
+11/07/2017 11:12:55 AM - ------- Start Call Webservice -------
+11/07/2017 11:12:55 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 11:12:55 AM - XML Infos
+11/07/2017 11:12:55 AM - 
+11/07/2017 11:12:56 AM - XML Infos Curl Response
+11/07/2017 11:12:56 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T17:12:56+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 11:12:56 AM - ------- End Call Webservice -------
+11/07/2017 11:12:56 AM - 
+11/07/2017 11:14:01 AM - 
+11/07/2017 11:14:01 AM - ------- Start Call Webservice -------
+11/07/2017 11:14:01 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 11:14:01 AM - XML Infos
+11/07/2017 11:14:01 AM - 
+11/07/2017 11:14:02 AM - XML Infos Curl Response
+11/07/2017 11:14:02 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T17:14:01+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 11:14:02 AM - ------- End Call Webservice -------
+11/07/2017 11:14:02 AM - 
+11/07/2017 02:47:50 PM - 
+11/07/2017 02:47:50 PM - ------- Start Call Webservice -------
+11/07/2017 02:47:50 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+11/07/2017 02:47:50 PM - XML Infos
+11/07/2017 02:47:50 PM - 
+11/07/2017 02:47:51 PM - XML Infos Curl Response
+11/07/2017 02:47:51 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-11T20:47:51+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+11/07/2017 02:47:51 PM - ------- End Call Webservice -------
+11/07/2017 02:47:51 PM - 
+12/07/2017 10:33:57 AM - 
+12/07/2017 10:33:57 AM - ------- Start Call Webservice -------
+12/07/2017 10:33:57 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 10:33:57 AM - XML Infos
+12/07/2017 10:33:57 AM - 
+12/07/2017 10:33:58 AM - XML Infos Curl Response
+12/07/2017 10:33:58 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T16:33:57+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 10:33:58 AM - ------- End Call Webservice -------
+12/07/2017 10:33:58 AM - 
+12/07/2017 10:41:05 AM - 
+12/07/2017 10:41:05 AM - ------- Start Call Webservice -------
+12/07/2017 10:41:05 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 10:41:05 AM - XML Infos
+12/07/2017 10:41:05 AM - 
+12/07/2017 10:41:06 AM - XML Infos Curl Response
+12/07/2017 10:41:06 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T16:41:05+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 10:41:06 AM - ------- End Call Webservice -------
+12/07/2017 10:41:06 AM - 
+12/07/2017 10:42:21 AM - 
+12/07/2017 10:42:21 AM - ------- Start Call Webservice -------
+12/07/2017 10:42:21 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 10:42:21 AM - XML Infos
+12/07/2017 10:42:21 AM - 
+12/07/2017 10:42:22 AM - XML Infos Curl Response
+12/07/2017 10:42:22 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T16:42:22+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 10:42:22 AM - ------- End Call Webservice -------
+12/07/2017 10:42:22 AM - 
+12/07/2017 10:44:04 AM - 
+12/07/2017 10:44:04 AM - ------- Start Call Webservice -------
+12/07/2017 10:44:04 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 10:44:04 AM - XML Infos
+12/07/2017 10:44:04 AM - 
+12/07/2017 10:44:05 AM - XML Infos Curl Response
+12/07/2017 10:44:05 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T16:44:04+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 10:44:05 AM - ------- End Call Webservice -------
+12/07/2017 10:44:05 AM - 
+12/07/2017 11:27:06 AM - 
+12/07/2017 11:27:06 AM - ------- Start Call Webservice -------
+12/07/2017 11:27:06 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 11:27:06 AM - XML Infos
+12/07/2017 11:27:06 AM - 
+12/07/2017 11:27:07 AM - XML Infos Curl Response
+12/07/2017 11:27:07 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T17:27:06+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 11:27:07 AM - ------- End Call Webservice -------
+12/07/2017 11:27:07 AM - 
+12/07/2017 11:29:01 AM - 
+12/07/2017 11:29:01 AM - ------- Start Call Webservice -------
+12/07/2017 11:29:01 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 11:29:01 AM - XML Infos
+12/07/2017 11:29:01 AM - 
+12/07/2017 11:29:01 AM - XML Infos Curl Response
+12/07/2017 11:29:01 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T17:29:01+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 11:29:01 AM - ------- End Call Webservice -------
+12/07/2017 11:29:01 AM - 
+12/07/2017 12:05:34 PM - 
+12/07/2017 12:05:34 PM - ------- Start Call Webservice -------
+12/07/2017 12:05:34 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 12:05:34 PM - XML Infos
+12/07/2017 12:05:34 PM - 
+12/07/2017 12:05:35 PM - XML Infos Curl Response
+12/07/2017 12:05:35 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T18:05:34+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 12:05:35 PM - ------- End Call Webservice -------
+12/07/2017 12:05:35 PM - 
+12/07/2017 12:22:28 PM - 
+12/07/2017 12:22:28 PM - ------- Start Call Webservice -------
+12/07/2017 12:22:28 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 12:22:28 PM - XML Infos
+12/07/2017 12:22:28 PM - 
+12/07/2017 12:22:28 PM - XML Infos Curl Response
+12/07/2017 12:22:28 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T18:22:28+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 12:22:28 PM - ------- End Call Webservice -------
+12/07/2017 12:22:28 PM - 
+12/07/2017 12:23:59 PM - 
+12/07/2017 12:23:59 PM - ------- Start Call Webservice -------
+12/07/2017 12:23:59 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 12:23:59 PM - XML Infos
+12/07/2017 12:23:59 PM - 
+12/07/2017 12:24:00 PM - XML Infos Curl Response
+12/07/2017 12:24:00 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T18:24:00+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 12:24:00 PM - ------- End Call Webservice -------
+12/07/2017 12:24:00 PM - 
+12/07/2017 12:27:20 PM - 
+12/07/2017 12:27:20 PM - ------- Start Call Webservice -------
+12/07/2017 12:27:20 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 12:27:20 PM - XML Infos
+12/07/2017 12:27:20 PM - 
+12/07/2017 12:27:21 PM - XML Infos Curl Response
+12/07/2017 12:27:21 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T18:27:21+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 12:27:21 PM - ------- End Call Webservice -------
+12/07/2017 12:27:21 PM - 
+12/07/2017 12:44:11 PM - 
+12/07/2017 12:44:11 PM - ------- Start Call Webservice -------
+12/07/2017 12:44:11 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 12:44:11 PM - XML Infos
+12/07/2017 12:44:11 PM - 
+12/07/2017 12:44:12 PM - XML Infos Curl Response
+12/07/2017 12:44:12 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T18:44:12+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 12:44:12 PM - ------- End Call Webservice -------
+12/07/2017 12:44:12 PM - 
+12/07/2017 03:08:17 PM - 
+12/07/2017 03:08:17 PM - ------- Start Call Webservice -------
+12/07/2017 03:08:17 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 03:08:17 PM - XML Infos
+12/07/2017 03:08:17 PM - 
+12/07/2017 03:08:17 PM - XML Infos Curl Response
+12/07/2017 03:08:17 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T21:08:17+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 03:08:17 PM - ------- End Call Webservice -------
+12/07/2017 03:08:17 PM - 
+12/07/2017 04:31:46 PM - 
+12/07/2017 04:31:46 PM - ------- Start Call Webservice -------
+12/07/2017 04:31:46 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+12/07/2017 04:31:46 PM - XML Infos
+12/07/2017 04:31:46 PM - 
+12/07/2017 04:31:46 PM - XML Infos Curl Response
+12/07/2017 04:31:46 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-12T22:31:46+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+12/07/2017 04:31:46 PM - ------- End Call Webservice -------
+12/07/2017 04:31:46 PM - 
+13/07/2017 09:50:28 AM - 
+13/07/2017 09:50:28 AM - ------- Start Call Webservice -------
+13/07/2017 09:50:28 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 09:50:28 AM - XML Infos
+13/07/2017 09:50:28 AM - 
+13/07/2017 09:50:29 AM - XML Infos Curl Response
+13/07/2017 09:50:29 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T15:50:28+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 09:50:29 AM - ------- End Call Webservice -------
+13/07/2017 09:50:29 AM - 
+13/07/2017 10:20:59 AM - 
+13/07/2017 10:20:59 AM - ------- Start Call Webservice -------
+13/07/2017 10:20:59 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 10:20:59 AM - XML Infos
+13/07/2017 10:20:59 AM - 
+13/07/2017 10:21:00 AM - XML Infos Curl Response
+13/07/2017 10:21:00 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T16:21:00+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 10:21:00 AM - ------- End Call Webservice -------
+13/07/2017 10:21:00 AM - 
+13/07/2017 10:44:03 AM - 
+13/07/2017 10:44:03 AM - ------- Start Call Webservice -------
+13/07/2017 10:44:03 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 10:44:03 AM - XML Infos
+13/07/2017 10:44:03 AM - 
+13/07/2017 10:44:04 AM - XML Infos Curl Response
+13/07/2017 10:44:04 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T16:44:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 10:44:04 AM - ------- End Call Webservice -------
+13/07/2017 10:44:04 AM - 
+13/07/2017 11:36:43 AM - 
+13/07/2017 11:36:43 AM - ------- Start Call Webservice -------
+13/07/2017 11:36:43 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 11:36:43 AM - XML Infos
+13/07/2017 11:36:43 AM - 
+13/07/2017 11:36:44 AM - XML Infos Curl Response
+13/07/2017 11:36:44 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T17:36:44+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 11:36:44 AM - ------- End Call Webservice -------
+13/07/2017 11:36:44 AM - 
+13/07/2017 11:48:49 AM - 
+13/07/2017 11:48:49 AM - ------- Start Call Webservice -------
+13/07/2017 11:48:49 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 11:48:49 AM - XML Infos
+13/07/2017 11:48:49 AM - 
+13/07/2017 11:48:49 AM - XML Infos Curl Response
+13/07/2017 11:48:49 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T17:48:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 11:48:49 AM - ------- End Call Webservice -------
+13/07/2017 11:48:49 AM - 
+13/07/2017 11:50:03 AM - 
+13/07/2017 11:50:03 AM - ------- Start Call Webservice -------
+13/07/2017 11:50:03 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 11:50:03 AM - XML Infos
+13/07/2017 11:50:03 AM - 
+13/07/2017 11:50:04 AM - XML Infos Curl Response
+13/07/2017 11:50:04 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T17:50:03+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 11:50:04 AM - ------- End Call Webservice -------
+13/07/2017 11:50:04 AM - 
+13/07/2017 12:29:02 PM - 
+13/07/2017 12:29:02 PM - ------- Start Call Webservice -------
+13/07/2017 12:29:02 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 12:29:02 PM - XML Infos
+13/07/2017 12:29:02 PM - 
+13/07/2017 12:29:03 PM - XML Infos Curl Response
+13/07/2017 12:29:03 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T18:29:02+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 12:29:03 PM - ------- End Call Webservice -------
+13/07/2017 12:29:03 PM - 
+13/07/2017 02:13:27 PM - 
+13/07/2017 02:13:27 PM - ------- Start Call Webservice -------
+13/07/2017 02:13:27 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:13:27 PM - XML Infos
+13/07/2017 02:13:27 PM - 
+13/07/2017 02:13:28 PM - XML Infos Curl Response
+13/07/2017 02:13:28 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:13:27+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:13:28 PM - ------- End Call Webservice -------
+13/07/2017 02:13:28 PM - 
+13/07/2017 02:14:37 PM - 
+13/07/2017 02:14:37 PM - ------- Start Call Webservice -------
+13/07/2017 02:14:37 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:14:37 PM - XML Infos
+13/07/2017 02:14:37 PM - 
+13/07/2017 02:14:37 PM - XML Infos Curl Response
+13/07/2017 02:14:37 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:14:37+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:14:37 PM - ------- End Call Webservice -------
+13/07/2017 02:14:37 PM - 
+13/07/2017 02:24:23 PM - 
+13/07/2017 02:24:23 PM - ------- Start Call Webservice -------
+13/07/2017 02:24:23 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:24:23 PM - XML Infos
+13/07/2017 02:24:23 PM - 
+13/07/2017 02:24:24 PM - XML Infos Curl Response
+13/07/2017 02:24:24 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:24:23+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:24:24 PM - ------- End Call Webservice -------
+13/07/2017 02:24:24 PM - 
+13/07/2017 02:25:50 PM - 
+13/07/2017 02:25:50 PM - ------- Start Call Webservice -------
+13/07/2017 02:25:50 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:25:50 PM - XML Infos
+13/07/2017 02:25:50 PM - 
+13/07/2017 02:25:51 PM - XML Infos Curl Response
+13/07/2017 02:25:51 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:25:50+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:25:51 PM - ------- End Call Webservice -------
+13/07/2017 02:25:51 PM - 
+13/07/2017 02:26:52 PM - 
+13/07/2017 02:26:52 PM - ------- Start Call Webservice -------
+13/07/2017 02:26:52 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:26:52 PM - XML Infos
+13/07/2017 02:26:52 PM - 
+13/07/2017 02:26:52 PM - XML Infos Curl Response
+13/07/2017 02:26:52 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:26:52+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:26:52 PM - ------- End Call Webservice -------
+13/07/2017 02:26:52 PM - 
+13/07/2017 02:41:51 PM - 
+13/07/2017 02:41:51 PM - ------- Start Call Webservice -------
+13/07/2017 02:41:51 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 02:41:51 PM - XML Infos
+13/07/2017 02:41:51 PM - 
+13/07/2017 02:41:52 PM - XML Infos Curl Response
+13/07/2017 02:41:52 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T20:41:51+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 02:41:52 PM - ------- End Call Webservice -------
+13/07/2017 02:41:52 PM - 
+13/07/2017 03:12:07 PM - 
+13/07/2017 03:12:07 PM - ------- Start Call Webservice -------
+13/07/2017 03:12:07 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 03:12:07 PM - XML Infos
+13/07/2017 03:12:07 PM - 
+13/07/2017 03:12:08 PM - XML Infos Curl Response
+13/07/2017 03:12:08 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T21:12:07+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 03:12:08 PM - ------- End Call Webservice -------
+13/07/2017 03:12:08 PM - 
+13/07/2017 04:31:18 PM - 
+13/07/2017 04:31:18 PM - ------- Start Call Webservice -------
+13/07/2017 04:31:18 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 04:31:18 PM - XML Infos
+13/07/2017 04:31:18 PM - 
+13/07/2017 04:31:18 PM - XML Infos Curl Response
+13/07/2017 04:31:18 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T22:31:18+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 04:31:18 PM - ------- End Call Webservice -------
+13/07/2017 04:31:18 PM - 
+13/07/2017 04:32:52 PM - 
+13/07/2017 04:32:52 PM - ------- Start Call Webservice -------
+13/07/2017 04:32:52 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 04:32:52 PM - XML Infos
+13/07/2017 04:32:52 PM - 
+13/07/2017 04:32:53 PM - XML Infos Curl Response
+13/07/2017 04:32:53 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T22:32:52+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 04:32:53 PM - ------- End Call Webservice -------
+13/07/2017 04:32:53 PM - 
+13/07/2017 04:34:04 PM - 
+13/07/2017 04:34:04 PM - ------- Start Call Webservice -------
+13/07/2017 04:34:04 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 04:34:04 PM - XML Infos
+13/07/2017 04:34:04 PM - 
+13/07/2017 04:34:05 PM - XML Infos Curl Response
+13/07/2017 04:34:05 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T22:34:04+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 04:34:05 PM - ------- End Call Webservice -------
+13/07/2017 04:34:05 PM - 
+13/07/2017 04:35:21 PM - 
+13/07/2017 04:35:21 PM - ------- Start Call Webservice -------
+13/07/2017 04:35:21 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+13/07/2017 04:35:21 PM - XML Infos
+13/07/2017 04:35:21 PM - 
+13/07/2017 04:35:21 PM - XML Infos Curl Response
+13/07/2017 04:35:21 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-13T22:35:21+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+13/07/2017 04:35:21 PM - ------- End Call Webservice -------
+13/07/2017 04:35:21 PM - 
+14/07/2017 08:30:56 AM - 
+14/07/2017 08:30:56 AM - ------- Start Call Webservice -------
+14/07/2017 08:30:56 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 08:30:56 AM - XML Infos
+14/07/2017 08:30:56 AM - 
+14/07/2017 08:30:57 AM - XML Infos Curl Response
+14/07/2017 08:30:57 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T14:30:57+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 08:30:57 AM - ------- End Call Webservice -------
+14/07/2017 08:30:57 AM - 
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:42:11 AM - ------- Start Call Webservice -------
+14/07/2017 08:42:11 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 08:42:11 AM - XML Infos
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:42:11 AM - ------- Start Call Webservice -------
+14/07/2017 08:42:11 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 08:42:11 AM - XML Infos
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:42:11 AM - XML Infos Curl Response
+14/07/2017 08:42:11 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T14:42:11+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 08:42:11 AM - ------- End Call Webservice -------
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:42:11 AM - XML Infos Curl Response
+14/07/2017 08:42:11 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T14:42:11+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 08:42:11 AM - ------- End Call Webservice -------
+14/07/2017 08:42:11 AM - 
+14/07/2017 08:52:00 AM - 
+14/07/2017 08:52:00 AM - ------- Start Call Webservice -------
+14/07/2017 08:52:00 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 08:52:00 AM - XML Infos
+14/07/2017 08:52:00 AM - 
+14/07/2017 08:52:00 AM - XML Infos Curl Response
+14/07/2017 08:52:00 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T14:52:00+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 08:52:00 AM - ------- End Call Webservice -------
+14/07/2017 08:52:00 AM - 
+14/07/2017 08:54:08 AM - 
+14/07/2017 08:54:08 AM - ------- Start Call Webservice -------
+14/07/2017 08:54:08 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 08:54:08 AM - XML Infos
+14/07/2017 08:54:08 AM - 
+14/07/2017 08:54:09 AM - XML Infos Curl Response
+14/07/2017 08:54:09 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T14:54:09+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 08:54:09 AM - ------- End Call Webservice -------
+14/07/2017 08:54:09 AM - 
+14/07/2017 09:03:13 AM - 
+14/07/2017 09:03:13 AM - ------- Start Call Webservice -------
+14/07/2017 09:03:13 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:03:13 AM - XML Infos
+14/07/2017 09:03:13 AM - 
+14/07/2017 09:03:14 AM - XML Infos Curl Response
+14/07/2017 09:03:14 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:03:13+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:03:14 AM - ------- End Call Webservice -------
+14/07/2017 09:03:14 AM - 
+14/07/2017 09:04:27 AM - 
+14/07/2017 09:04:27 AM - ------- Start Call Webservice -------
+14/07/2017 09:04:27 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:04:27 AM - XML Infos
+14/07/2017 09:04:27 AM - 
+14/07/2017 09:04:27 AM - XML Infos Curl Response
+14/07/2017 09:04:27 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:04:27+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:04:27 AM - ------- End Call Webservice -------
+14/07/2017 09:04:27 AM - 
+14/07/2017 09:08:44 AM - 
+14/07/2017 09:08:44 AM - ------- Start Call Webservice -------
+14/07/2017 09:08:44 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:08:44 AM - XML Infos
+14/07/2017 09:08:44 AM - 
+14/07/2017 09:08:45 AM - XML Infos Curl Response
+14/07/2017 09:08:45 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:08:44+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:08:45 AM - ------- End Call Webservice -------
+14/07/2017 09:08:45 AM - 
+14/07/2017 09:09:48 AM - 
+14/07/2017 09:09:48 AM - ------- Start Call Webservice -------
+14/07/2017 09:09:48 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:09:48 AM - XML Infos
+14/07/2017 09:09:48 AM - 
+14/07/2017 09:09:49 AM - XML Infos Curl Response
+14/07/2017 09:09:49 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:09:48+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:09:49 AM - ------- End Call Webservice -------
+14/07/2017 09:09:49 AM - 
+14/07/2017 09:14:51 AM - 
+14/07/2017 09:14:51 AM - ------- Start Call Webservice -------
+14/07/2017 09:14:51 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:14:51 AM - XML Infos
+14/07/2017 09:14:51 AM - 
+14/07/2017 09:14:52 AM - XML Infos Curl Response
+14/07/2017 09:14:52 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:14:51+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:14:52 AM - ------- End Call Webservice -------
+14/07/2017 09:14:52 AM - 
+14/07/2017 09:19:08 AM - 
+14/07/2017 09:19:08 AM - ------- Start Call Webservice -------
+14/07/2017 09:19:08 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 09:19:08 AM - XML Infos
+14/07/2017 09:19:08 AM - 
+14/07/2017 09:19:08 AM - XML Infos Curl Response
+14/07/2017 09:19:08 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T15:19:08+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 09:19:08 AM - ------- End Call Webservice -------
+14/07/2017 09:19:08 AM - 
+14/07/2017 10:12:46 AM - 
+14/07/2017 10:12:46 AM - ------- Start Call Webservice -------
+14/07/2017 10:12:46 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 10:12:46 AM - XML Infos
+14/07/2017 10:12:46 AM - 
+14/07/2017 10:12:47 AM - XML Infos Curl Response
+14/07/2017 10:12:47 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T16:12:46+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 10:12:47 AM - ------- End Call Webservice -------
+14/07/2017 10:12:47 AM - 
+14/07/2017 10:37:04 AM - 
+14/07/2017 10:37:04 AM - ------- Start Call Webservice -------
+14/07/2017 10:37:04 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 10:37:04 AM - XML Infos
+14/07/2017 10:37:04 AM - 
+14/07/2017 10:37:05 AM - XML Infos Curl Response
+14/07/2017 10:37:05 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T16:37:04+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 10:37:05 AM - ------- End Call Webservice -------
+14/07/2017 10:37:05 AM - 
+14/07/2017 10:38:19 AM - 
+14/07/2017 10:38:19 AM - ------- Start Call Webservice -------
+14/07/2017 10:38:19 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 10:38:19 AM - XML Infos
+14/07/2017 10:38:19 AM - 
+14/07/2017 10:38:20 AM - XML Infos Curl Response
+14/07/2017 10:38:20 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T16:38:19+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 10:38:20 AM - ------- End Call Webservice -------
+14/07/2017 10:38:20 AM - 
+14/07/2017 11:34:53 AM - 
+14/07/2017 11:34:53 AM - ------- Start Call Webservice -------
+14/07/2017 11:34:53 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 11:34:53 AM - XML Infos
+14/07/2017 11:34:53 AM - 
+14/07/2017 11:34:53 AM - XML Infos Curl Response
+14/07/2017 11:34:53 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T17:34:53+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 11:34:53 AM - ------- End Call Webservice -------
+14/07/2017 11:34:53 AM - 
+14/07/2017 11:39:15 AM - 
+14/07/2017 11:39:15 AM - ------- Start Call Webservice -------
+14/07/2017 11:39:15 AM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 11:39:15 AM - XML Infos
+14/07/2017 11:39:15 AM - 
+14/07/2017 11:39:15 AM - XML Infos Curl Response
+14/07/2017 11:39:15 AM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T17:39:15+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 11:39:15 AM - ------- End Call Webservice -------
+14/07/2017 11:39:15 AM - 
+14/07/2017 03:30:15 PM - 
+14/07/2017 03:30:15 PM - ------- Start Call Webservice -------
+14/07/2017 03:30:15 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 03:30:15 PM - XML Infos
+14/07/2017 03:30:15 PM - 
+14/07/2017 03:30:16 PM - XML Infos Curl Response
+14/07/2017 03:30:16 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T21:30:16+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 03:30:16 PM - ------- End Call Webservice -------
+14/07/2017 03:30:16 PM - 
+14/07/2017 04:41:48 PM - 
+14/07/2017 04:41:48 PM - ------- Start Call Webservice -------
+14/07/2017 04:41:48 PM - https://ws.shopping-feed.com?TOKEN=a7f806d540fd853d2bfec8fbe19148b3&amp;CALL=GetOrders&amp;MODE=Production&amp;REQUEST=0
+14/07/2017 04:41:48 PM - XML Infos
+14/07/2017 04:41:48 PM - 
+14/07/2017 04:41:49 PM - XML Infos Curl Response
+14/07/2017 04:41:49 PM - <?xml version="1.0" encoding="utf-8"?>
+<Result>
+            <Request><Date>2017-07-14T22:41:49+02:00</Date><Call>GetOrders</Call><Token>a7f806d540fd853d2bfec8fbe19148b3</Token><Mode>Production</Mode><Version>2</Version></Request><Response><Orders/></Response></Result>
+
+14/07/2017 04:41:49 PM - ------- End Call Webservice -------
+14/07/2017 04:41:49 PM - 

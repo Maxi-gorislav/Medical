@@ -1,0 +1,150 @@
+<item>
+<!-- The following attributes are always required -->
+<g:id>15</g:id>
+<g:title><![CDATA[MOBI F500™ Multi Level Funeral | Mortuary Stretcher]]></g:title>
+<g:description><![CDATA[MOBI F500&amp;trade;
+Made Specific for Funeral &amp; Removal Industry
+INCLUDES FREE COT COVER !!
+*Black Pad Standard* FREE SHIPPING in Continental US!!
+1. &amp;nbsp;One Man Automatic Loading Stretcher 
+2. Multiple Height Levels on Both Ends
+3. &amp;nbsp;Wheel Locks &amp; Durable Tie Straps
+4. &amp;nbsp;FDA, CE and ISO 9001 Certificate
+5. Capacity rating: 500 Lbs
+6. Backed By Our One Year Warranty]]></g:description>
+<g:link><![CDATA[https://medical-stretchers.com/mortuary-stretchers/15-mobi-3f-multi-level-mortuary-stretcher.html]]></g:link>
+<g:image_link><![CDATA[http://medical-stretchers.com/3-large_default/MOBI-F500™-Multi-Level-Funeral-|-Mortuary-Stretcher.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>895 USD</g:price>
+<g:shipping>
+   <g:country>US</g:country>
+   <g:service>Shipping & Handling Included in Domestic US on Select Products</g:service>
+   <g:price>0 USD</g:price>
+</g:shipping>
+<g:google_product_category><![CDATA[3477]]></g:google_product_category>
+<g:product_type><![CDATA[Mortuary Stretchers]]></g:product_type>
+<g:identifier_exists>FALSE</g:identifier_exists>
+<g:adult>FALSE</g:adult>
+</item>
+<item>
+<!-- The following attributes are always required -->
+<g:id>65</g:id>
+<g:title><![CDATA[OVERSIZED Removal Cot]]></g:title>
+<g:description><![CDATA[OVERSIZED Removal Cot - JUNKIN
+ 
+
+Multi level, Adjustable on both ends
+Built with high strength anodized aluminum tubing that will not oxidize
+Automatically locking legs while unloading
+Wheel Locks
+Straps and mattress included
+Capacity: 900lbs
+]]></g:description>
+<g:link><![CDATA[https://medical-stretchers.com/mortuary-stretchers/65-oversized-junkin-mortuary-stretcher.html]]></g:link>
+<g:image_link><![CDATA[http://medical-stretchers.com/85-large_default/OVERSIZED-Removal-Cot.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>1635.95 USD</g:price>
+<g:shipping>
+   <g:country>US</g:country>
+   <g:service>Shipping & Handling Included in Domestic US on Select Products</g:service>
+   <g:price>0 USD</g:price>
+</g:shipping>
+<g:google_product_category><![CDATA[3477]]></g:google_product_category>
+<g:product_type><![CDATA[Mortuary Stretchers]]></g:product_type>
+<g:identifier_exists>FALSE</g:identifier_exists>
+<g:adult>FALSE</g:adult>
+</item>
+<item>
+<!-- The following attributes are always required -->
+<g:id>68-8</g:id>
+<g:title><![CDATA[Stretcher Bed & Ramp]]></g:title>
+<g:description><![CDATA[Stretcher Bed &amp; Ramp for Vehicle
+ 
+
+Durable Stainless Steel Construction
+Standard Size and Oversize Available
+Universal, Easy to Clean
+Can be used in any removal vehicle
+Designed for convenient loading/unloading of any cot or stretcher
+Flip down ramp protects bumper
+Use storage area under the base for other equipment
+]]></g:description>
+<g:link><![CDATA[https://medical-stretchers.com/mortuary-stretchers/68-stretcher-bed-ramp.html#/10-size-standardstretcherbase]]></g:link>
+<g:image_link><![CDATA[http://medical-stretchers.com/93-large_default/Stretcher-Bed-&-Ramp.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>699.95 USD</g:price>
+<g:shipping>
+   <g:country>US</g:country>
+   <g:service>Shipping & Handling Included in Domestic US on Select Products</g:service>
+   <g:price>0 USD</g:price>
+</g:shipping>
+<g:google_product_category><![CDATA[3477]]></g:google_product_category>
+<g:product_type><![CDATA[Mortuary Stretchers]]></g:product_type>
+<g:identifier_exists>FALSE</g:identifier_exists>
+<g:item_group_id>68</g:item_group_id>
+<g:adult>FALSE</g:adult>
+</item>
+<item>
+<!-- The following attributes are always required -->
+<g:id>68-9</g:id>
+<g:title><![CDATA[Stretcher Bed & Ramp]]></g:title>
+<g:description><![CDATA[Stretcher Bed &amp; Ramp for Vehicle
+ 
+
+Durable Stainless Steel Construction
+Standard Size and Oversize Available
+Universal, Easy to Clean
+Can be used in any removal vehicle
+Designed for convenient loading/unloading of any cot or stretcher
+Flip down ramp protects bumper
+Use storage area under the base for other equipment
+]]></g:description>
+<g:link><![CDATA[https://medical-stretchers.com/mortuary-stretchers/68-stretcher-bed-ramp.html#/9-size-oversizestretcherbase]]></g:link>
+<g:image_link><![CDATA[http://medical-stretchers.com/93-large_default/Stretcher-Bed-&-Ramp.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>699.95 USD</g:price>
+<g:shipping>
+   <g:country>US</g:country>
+   <g:service>Shipping & Handling Included in Domestic US on Select Products</g:service>
+   <g:price>0 USD</g:price>
+</g:shipping>
+<g:google_product_category><![CDATA[3477]]></g:google_product_category>
+<g:product_type><![CDATA[Mortuary Stretchers]]></g:product_type>
+<g:identifier_exists>FALSE</g:identifier_exists>
+<g:item_group_id>68</g:item_group_id>
+<g:adult>FALSE</g:adult>
+</item>
+<item>
+<!-- The following attributes are always required -->
+<g:id>91</g:id>
+<g:title><![CDATA[MOBI F1200™ Multi Level Bariatric | Oversized Mortuary Stretcher]]></g:title>
+<g:description><![CDATA[MOBI F1200&amp;trade;
+Made Specific for Funeral &amp; Removal Industry
+INCLUDES FREE COT COVER &amp; SLIDER BOARD!!
+FREE SHIPPING in Continental US!!
+1. &amp;nbsp;Heavy Duty Welded Steel Frame Construction
+2. &amp;nbsp;Multiple Height Levels on Both Ends
+3. &amp;nbsp;All Terrain Wheels w/ Locks
+4. &amp;nbsp;Includes 3 Straps, Cot Cover, and Oversized Slider Board (Limited Time)
+5. Capacity rating:&amp;nbsp;1000 lbs
+6. Backed By Our One Year Warranty]]></g:description>
+<g:link><![CDATA[https://medical-stretchers.com/mortuary-stretchers/91-mobi-f1200-multi-level-bariatric-oversized-mortuary-stretcher.html]]></g:link>
+<g:image_link><![CDATA[http://medical-stretchers.com/200-large_default/MOBI-F1200™-Multi-Level-Bariatric-|-Oversized-Mortuary-Stretcher.jpg]]></g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>1495 USD</g:price>
+<g:shipping>
+   <g:country>US</g:country>
+   <g:service>Shipping & Handling Included in Domestic US on Select Products</g:service>
+   <g:price>0 USD</g:price>
+</g:shipping>
+<g:google_product_category><![CDATA[3477]]></g:google_product_category>
+<g:product_type><![CDATA[Mortuary Stretchers]]></g:product_type>
+<g:identifier_exists>FALSE</g:identifier_exists>
+<g:item_group_id>68</g:item_group_id>
+<g:adult>FALSE</g:adult>
+</item>

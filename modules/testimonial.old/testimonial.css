@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+.testimonialHolder{
+       background: url("https://medical-stretchers.com/themes/default-bootstrap/css/modules/blocktopmenu/css/../../../../img/new/img02.jpg") no-repeat scroll 0 0 #5a7cdf;
+    color: #fff;
+    font-size: 17px;
+    height: 106px;
+    margin-left: 5px;
+    overflow: hidden;
+    padding: 10px !important;
+    width: 65.988%;
+}
+.testimonialItem{
+        cursor: pointer;
+    line-height: 20px;
+    padding-left: 45px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.testi{
+	background: #f0f0f0;
+	overflow: hidden;
+	font-size:12px;
+	width: 153px;
+	padding:10px;
+	margin-bottom:10px;
+}
+.testi p{ 
+	width:100%; 
+	float:left; 
+	padding-bottom:10px;
+}
+.testi span{ 
+	width:100%; 
+	float:left; 
+	text-align:right; 
+	font-size:11px; 
+	font-weight:bold;
+}
+.testi a{ 
+	font-size:11px; 
+	text-align:right; 
+	float:right;
+}
+.testi .title{ 
+	width:100%; 
+	float:left; 
+	padding-bottom:5px; 
+	font-style:normal; 
+	font-weight:bold;
+}
+.dis_testi{
+	width:100%;
+	float:left;
+	line-height:16px; 	
+	font-size:12px;
+	color:#333;
+	font-style:italic;
+	padding-bottom:15px;
+}
+.dis_testi .title{ 
+	width:100%; 
+	float:left; 
+	padding-bottom:5px; 
+	font-style:normal; 
+	font-weight:bold;
+}
+.dis_testi p{ 
+	width:100%; 
+	float:left; 
+	margin:0 !important; 
+	padding:0 !important;
+}
+.dis_testi span{ 
+	width:100%; 
+	float:left; 
+	text-align:right;
+}
+marquee {
+    
+    border-left: 1px none #D0D3D8;
+    border-right: 1px none #D0D3D8;
+    min-height: 16px;
+}
+fieldset
+{
+background:none repeat scroll 0 0 #FFFFF0;
+border:1px solid #DFD5C3;
+font-size:11px;
+padding:1px;
+}
+form.testi_custom label
+{
+float:left;
+font-weight:bold;
+padding:0.2em 0.5em 0 0;
+text-align:right;
+width:200px;
+}
+
+.margin-form
+{
+color:#7F7F7F;
+font-size:0.85em;
+padding:0 0 1em 210px
+}
+
+
+.button1
+{
+-moz-border-bottom-colors:none;
+-moz-border-image:none;
+-moz-border-right-colors:none;
+-moz-border-top-colors:none;
+background-color:#FFF6D3;
+border-color:#FFF6D3 #DFD5AF #DFD5AF #FFF6D3;
+border-right:1px solid #DFD5AF;
+border-style:solid;
+border-width:1px;
+color:#268CCD;
+padding:3px;
+}
+legend
+{
+background:none repeat scroll 0 0 #FFF6D3;
+border:1px solid #DFD5C3;
+font-weight:700px;
+margin:0;
+padding:0.2em 0.5em;
+text-align:left;
+}
+
+

@@ -1,0 +1,69 @@
+© Permanent HDClic / Release Notes for module PrestaShop 1.6
+Module : PrestaBlog
+[pre] = default prefixe for tables installation of PrestaShop : “ps_”
+--------------------------------
+#######################
+# from 3.6.2 to 3.6.3 #
+#######################
+
+# those sql line can't be inject directly because you must loop with
+# id_shop = [each_id_shop], id_lang = [each_id_lang], id_theme = [each_id_theme]
+# after insert the new id_meta = [new_id_meta]
+
+INSERT INTO `[pre]_meta` (`page`, `configurable`) VALUES	('module-prestablog-blog', 1);
+INSERT INTO `[pre]_meta_lang` (`id_meta`, `id_shop`, `id_lang`, `title`, `description`, `url_rewrite`)
+	VALUES ([new_id_meta], [each_id_shop], [each_id_lang], 'PrestaBlog', 'Blog', 'module-blog');
+INSERT INTO `'._DB_PREFIX_.'theme_meta` (`id_theme`, `id_meta`, `left_column`, `right_column`)
+	VALUES ([each_id_theme], [new_id_meta], 1, 1);
+
+CREATE TABLE `[pre]_prestablog_news_newslink` (`id_prestablog_news_newslink` int(10) unsigned NOT null auto_increment, `id_prestablog_news` int(10) unsigned NOT null, `id_prestablog_newslink` int(10) unsigned NOT null, PRIMARY KEY (`id_prestablog_news_newslink`)) DEFAULT CHARSET=utf8 ;
+
+--------------------------------
+#######################
+# from 3.6.1 to 3.6.2 #
+#######################
+
+CREATE TABLE `[pre]_prestablog_categorie_group` (`id_prestablog_categorie` int(10) unsigned NOT NULL, `id_group` int(10) unsigned NOT NULL, PRIMARY KEY (`id_prestablog_categorie`, `id_group`)) DEFAULT CHARSET=utf8 ;
+
+--------------------------------
+#######################
+# from 3.6.0 to 3.6.1 #
+#######################
+
+No sql
+
+--------------------------------
+#######################
+# from 3.5.5 to 3.6.0 #
+#######################
+
+No sql
+
+--------------------------------
+#######################
+# from 3.5 to 3.5.5   #
+#######################
+
+ALTER TABLE `[pre]_prestablog_categorie` ADD `position` INT NOT null;
+ALTER TABLE `[pre]_prestablog_subblock` ADD `langues` TEXT NOT null AFTER `id_shop` ;
+ALTER TABLE `[pre]_prestablog_subblock` ADD `template` varchar(255) NOT null AFTER `hook_name` ;
+ALTER TABLE `[pre]_prestablog_subblock` ADD `blog_link` tinyint(1) NOT null DEFAULT '0' AFTER `date_stop` ;
+ALTER TABLE `[pre]_prestablog_news` ADD `url_redirect` TEXT NOT null;
+ALTER TABLE `[pre]_prestablog_news` ADD `date_modification` TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ;
+
+--------------------------------
+#######################
+# from 3.4 to 3.5     #
+#######################
+
+ALTER TABLE `[pre]_prestablog_news_lang` ADD `read` int(10) unsigned NOT null DEFAULT '0';
+CREATE TABLE IF NOT EXISTS `[pre]_prestablog_subblock` ( `id_prestablog_subblock` int(10) unsigned NOT null auto_increment, `hook_name` varchar(255) NOT null, `id_shop` int(10) unsigned NOT null, `select_type` int(10) unsigned NOT null, `nb_list` int(10) unsigned NOT null, `random` tinyint(1) NOT null DEFAULT '0', `position` int(10) unsigned NOT null, `title_length` int(10) unsigned NOT null, `intro_length` int(10) unsigned NOT null, `use_date_start` tinyint(1) NOT null DEFAULT '0', `date_start` datetime NOT null, `use_date_stop` tinyint(1) NOT null DEFAULT '0', `date_stop` datetime NOT null, `actif` tinyint(1) NOT null DEFAULT '1', PRIMARY KEY (`id_prestablog_subblock`)) DEFAULT CHARSET=utf8;
+CREATE TABLE IF NOT EXISTS `[pre]_prestablog_subblock_lang` ( `id_prestablog_subblock` int(10) unsigned NOT null, `id_lang` int(10) unsigned NOT null, `title` varchar(255) NOT null, PRIMARY KEY (`id_prestablog_subblock`, `id_lang`)) DEFAULT CHARSET=utf8;
+CREATE TABLE IF NOT EXISTS `[pre]_prestablog_subblock_categories` ( `id_prestablog_subblock` int(10) unsigned NOT null, `categorie` int(10) unsigned NOT null, PRIMARY KEY (`id_prestablog_subblock`, `categorie`)) DEFAULT CHARSET=utf8;
+
+--------------------------------
+#######################
+# since 3.0 to 3.4    #
+#######################
+
+no sql
